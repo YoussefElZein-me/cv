@@ -1,89 +1,92 @@
-class DataLoader {
-  constructor() {
-    this.loadData()
-      .then(data => this.renderData(data))
-      .catch(error => console.error('Error loading data:', error));
-  }
+function parseMarkdown(markdownText) {
+    const lines = markdownText.split('\n');
+    let data = [];
+    let stack = [];
 
-  async loadData() {
-    try {
-      const response = await fetch('data.json');
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      const data = await response.json();
-      console.log('Loaded JSON:', data); // Check what's being loaded
-      return data;
-    } catch (error) {
-      console.error('Error fetching JSON:', error);
-      return {};
-    }
-  }
-
-  renderData(data) {
-    console.log('Received JSON data:', data);
-
-    // Contact Information
-    const contactInfoSection = document.getElementById('contact-info');
-    if (contactInfoSection) {
-      const contactInfoHtml = `
-        <h2>Contact Information</h2>
-        <ul>
-          <li>Email: ${data.contactInformation?.email || 'Not found'}</li>
-          <li>Phone: ${data.contactInformation?.phone || 'Not found'}</li>
-          <li>LinkedIn: ${data.contactInformation?.socialMedia?.linkedin || 'Not found'}</li>
-          <li>GitHub: ${data.contactInformation?.socialMedia?.github || 'Not found'}</li>
-        </ul>
-      `;
-      contactInfoSection.innerHTML = contactInfoHtml;
-    } else {
-      console.error('Contact info section not found');
+    function getCurrentParent() {
+        return stack.length > 0 ? stack[stack.length - 1] : null;
     }
 
-    // Summary
-    const summarySection = document.getElementById('summary');
-    if (summarySection) {
-      const summaryHtml = `
-        <h2>Summary</h2>
-        <p>${data.summary?.description || 'Not found'}</p>
-        <h3>Specializations:</h3>
-        <ul>
-          ${data.summary?.specializations?.map(specialization => {
-            return `<li>${specialization}</li>`;
-          }).join('')}
-        </ul>
-      `;
-      summarySection.innerHTML = summaryHtml;
-    } else {
-      console.error('Summary section not found');
-    }
+    lines.forEach(line => {
+        let level = 0;
+        if (line.startsWith('#')) {
+            level = line.indexOf(' ') - 1;
+            let title = line.substring(level + 2).trim();
+            let node = { title: title, level: level };
 
-    // Experience
-    const experienceSection = document.getElementById('experience');
-    if (experienceSection) {
-      const experienceHtml = `
-        <h2>Experience</h2>
-        ${data.experience?.map(experience => {
-          return `
-            <h3>${experience.type || 'Not found'}</h3>
-            <p>Date: ${experience.date || 'Not found'}</p>
-            <p>Client: ${experience.client || 'Not found'}</p>
-            <h4>Projects:</h4>
-            <ul>
-              ${experience.projects?.map(project => {
-                return `
-                  <li><strong>${project.title || 'Not found'}</strong>: ${project.description || 'Not found'}</li>
-                `;
-              }).join('')}
-            </ul>
-          `;
-        }).join('')}
-      `;
-      experienceSection.innerHTML = experienceHtml;
-    } else {
-      console.error('Experience section not found');
-    }
-  }
+            if (level === 0) {
+                data.push(node);
+                stack = [node];
+            } else {
+                while (stack.length > level) {
+                    stack.pop();
+                }
+                let parent = getCurrentParent();
+                if (!parent.children) {
+                    parent.children = [];
+                }
+                parent.children.push(node);
+                stack.push(node);
+            }
+        } else if (line.startsWith('-')) {
+            let content = line.substring(1).trim();
+            let parent = getCurrentParent();
+            if (!parent.contents) {
+                parent.contents = [];
+            }
+            parent.contents.push(content);
+        }
+    });
+
+    return data;
 }
 
-new DataLoader();
+function createCard(node, level = 0) {
+    const card = document.createElement('div');
+    card.classList.add('neumorphic-card');
+    card.classList.add(`level${level}`);
+
+    // Add title
+    const title = document.createElement('h2');
+    title.textContent = node.title;
+    card.appendChild(title);
+
+    // Add container for contents
+    const container = document.createElement('div');
+    card.appendChild(container);
+
+    // Handle children
+    if (node.children) {
+        node.children.forEach(child => {
+            const childCard = createCard(child, level + 1);
+            container.appendChild(childCard);
+        });
+    } else if (node.contents) {
+        // List contents directly under the title
+        const list = document.createElement('ul');
+        node.contents.forEach(content => {
+            const listItem = document.createElement('li');
+            listItem.textContent = content;
+            list.appendChild(listItem);
+        });
+        container.appendChild(list);
+    }
+
+    return card;
+}
+
+// Fetch Markdown file from GitHub
+fetch('https://raw.githubusercontent.com/youssefelzein-me/cv/main/cv_data.md')
+    .then(response => response.text())
+    .then(markdownText => {
+        // Parse Markdown text
+        const markdownData = parseMarkdown(markdownText);
+
+        // Generate the HTML structure
+        const cvContainer = document.getElementById('cv-container');
+        markdownData.forEach(section => {
+            const mainCard = createCard(section);
+            cvContainer.appendChild(mainCard);
+        });
+    })
+    .catch(error => console.error('Error:', error));

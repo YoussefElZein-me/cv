@@ -1,0 +1,15 @@
+.neumorphic-card {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow:  9px 9px 16px #d0d0d0,
+                 -9px -9px 16px #ffffff;
+}
+
+@media print {
+    .neumorphic-card {
+        box-shadow: none;
+        border: 1px solid #ccc;
+    }
+}

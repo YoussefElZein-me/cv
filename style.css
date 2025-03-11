@@ -1,0 +1,41 @@
+:root {
+    --base-font-size: 24px;
+    --font-size-factor: 0.8;
+    --base-border-radius: 9px;
+    --border-radius-factor: 0.8;
+}
+
+.neumorphic-card {
+    font-family: Georgia, serif;
+}
+
+.level0 .neumorphic-card {
+    font-size: var(--base-font-size);
+    border-radius: var(--base-border-radius);
+}
+
+.level1 .neumorphic-card {
+    font-size: calc(var(--base-font-size) * var(--font-size-factor));
+    border-radius: calc(var(--base-border-radius) * var(--border-radius-factor));
+}
+
+.level2 .neumorphic-card {
+    font-size: calc(var(--base-font-size) * var(--font-size-factor) * var(--font-size-factor));
+    border-radius: calc(var(--base-border-radius) * var(--border-radius-factor) * var(--border-radius-factor));
+}
+
+/* Continue this pattern for each level */
+
+@media print {
+    body {
+        font-size: 12pt;
+        margin: 0;
+    }
+    .content-area {
+        width: 210mm;
+        margin: 0 auto;
+    }
+    .section {
+        page-break-before: always;
+    }
+}
