@@ -29,7 +29,7 @@
 
 ## III. Skills
 
-### **Technical Skills**
+### Technical Skills
 - Software
 	- Design
 		- Adobe Creative Suite
@@ -76,7 +76,7 @@
 	- C++: Well Acquainted
 	- C#: Well Acquainted
 
-### **Creative Skills**
+### Creative Skills
 - 3D Art and Design
 - Animation (2D & 3D)
 - Audiovisual Production
@@ -85,7 +85,7 @@
 - Motion Graphics (2D & 3D)
 - Visual Effects (VFX)
 
-### **Soft Skills**
+### Soft Skills
 - Communication
 - Teamwork
 - Problem-Solving
