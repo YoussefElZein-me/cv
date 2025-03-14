@@ -11,7 +11,6 @@
 - Dribbble: https://dribbble.com/YoussefElZein
 
 ## Overview
-###
 - Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
 - Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
 - Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
