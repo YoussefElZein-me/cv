@@ -16,10 +16,9 @@
 - Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
 - Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
 
-## III. Skills
-
+## Skills
 ### Technical Skills
-- Software
+#### Software
 	- Design
 		- Adobe Creative Suite
 			- Photoshop: Professional (20+ years)
@@ -55,7 +54,7 @@
 				- PowerPoint: Professional (10+ years)
 				- Word: Advanced (10+ years)
 				- Exel: Advanced (10+ years)
-- Programming Languages
+#### Programming Languages
 	- Javascript: Certified Professional (5+ years)
 	- HTML5: Advanced (10+ years)
 	- Python: Proficient (2+ years)
@@ -81,7 +80,7 @@
 - Time Management
 - Creative Thinking
 
-## IV. Experience
+## Experience
 
 ### Job Title
 - Company Name
@@ -117,14 +116,14 @@
 	- Develop Motion Graphic, Visual Effects, and 3D Simulation packages
 
 ### Digital Content Creator
-- Client
+#### Client
 	- House of Media (UK)
-- Date
+#### Date
 	- December 2022 - January 2023
-- Engagemenet
+#### Engagemenet
 	- Full Time 
 	- Contract
-- Projects
+#### Projects
 	- UniClinics Iraq
 		- Produced cinematic advertisement with motion graphics for rebranding launch campaign
 
