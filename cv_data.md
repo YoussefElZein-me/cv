@@ -26,7 +26,7 @@
 - Audition: Advanced (10+ years)
 - InDesign: Advanced (5+ years)
 ###### Maxon
-Cinema 4D: Professional (15+ years)
+-Cinema 4D: Professional (15+ years)
 ###### Autodesk
 - Inventor: Professional (15+ years)
 - 3Ds Max: Professional (15+ years)
@@ -95,7 +95,7 @@ Cinema 4D: Professional (15+ years)
 #### Date: 2016 - Current
 #### Location: Hybrid & Remote
 #### Roles
-Develop Motion Graphic, Visual Effects, and 3D Simulation packages for global and local clients
+##### Develop Motion Graphic, Visual Effects, and 3D Simulation packages for global and local clients
 #### Clients
 - Mira-Clé (June 2022) : Produced the logo reveal animation for the rebrand campaign.
 - iLead Group (Since 2019) : Providing their creative team with for design related consultancy.
