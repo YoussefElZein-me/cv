@@ -1,22 +1,20 @@
 # 
 
 ## Youssef El Zein
-### Visual Artist & Motion Designer
-#### Contact Information
-	- Phone Number: +961 70 859870
-	- Email Address:  YoussefElZein@live.com
-	- Location: Beirut, Lebanon
-	- LinkedIn Profile URL: https://www.linkedin.com/in/YoussefElZein/
-	- Vimeo: https://vimeo.com/YoussefElZein
-	- Dribbble: https://dribbble.com/YoussefElZein
+- Visual Artist & Motion Designer
 
-## II. Summary/Profile
+### Contact Information
+- Phone Number: +961 70 859870
+- Email Address:  YoussefElZein@live.com
+- Location: Beirut, Lebanon
+- LinkedIn Profile URL: https://www.linkedin.com/in/YoussefElZein/
+- Vimeo: https://vimeo.com/YoussefElZein
+- Dribbble: https://dribbble.com/YoussefElZein
 
-### Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
-
-### Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
-
-### Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
+## Overview
+- Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
+- Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
+- Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
 
 ## III. Skills
 
