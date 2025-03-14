@@ -161,13 +161,13 @@
 ## V. Education
 
 ### Bachelor of Science
-- Graphic Design - Digital Emphasis
-- Lebanese American University
-- 2010 - 2016
-- Beirut, Lebanon
-- Academic Distinction (Spring 2010)
+- Major: Graphic Design (Digital Emphasis)
+- Institution: Lebanese American University
+- Dates: 2010 - 2016
+- Location: Beirut, Lebanon
+- Achievements: Academic Distinction (Spring 2010)
 
-## VI. Portfolio/Projects
+## Portfolio/Projects
 
 ### Project Title
 - Brief Description of the Project
@@ -175,14 +175,7 @@
 - Skills Used
 - Link to the Project (if available online)
 
-## VII. Awards and Recognition (Optional)
-
-### Exchange Student Scholarship
-- Kennedy Lugar Youth Exchange and Study (YES)
-- Grant Awardee
-- 2007 - 2008
-
-## VIII. Certifications (Optional)
+## VII. Awards, Certifications, & Recognition
 
 ### Persian Language Certification
 - 4th Level Proficiency Course
@@ -194,16 +187,15 @@
 - General William Mitchell High School, Colorado Springs, CO
 - 2007 - 2008
 
-## IX. Languages (Optional)
+### Exchange Student Scholarship
+- Kennedy Lugar Youth Exchange and Study (YES)
+- Grant Awardee
+- 2007 - 2008
 
-### Arabic: Native
-
-### English: Native
-
-### Persian: Fluent
-
-### Turkish: Professional Working Proficiency
-
-### Other
+## Languages
+- Arabic: Native
+- English: Native
+- Persian: Fluent
+- Turkish: Professional Working Proficiency
 - Russian: Elementary / Basic (Currently Pursuing)
 - Japanese: Elementary / Basic (Currently Pursuing)
