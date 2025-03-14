@@ -91,11 +91,10 @@
 - Repeat for each relevant job
 
 ### VFX & Motion Designer
-#### Engagement: Freelance
-#### Date: 2016 - Current
-#### Location: Hybrid & Remote
-#### Roles
-##### Develop Motion Graphic, Visual Effects, and 3D Simulation packages for global and local clients
+- Engagement: Freelance
+- Date: 2016 - Current
+- Location: Hybrid & Remote
+- Role: Develop Motion Graphic, Visual Effects, and 3D Simulation packages for global and local clients
 #### Clients
 - Mira-Clé (June 2022) : Produced the logo reveal animation for the rebrand campaign.
 - iLead Group (Since 2019) : Providing their creative team with for design related consultancy.
@@ -105,15 +104,15 @@
 
 ### Digital Content Creator
 #### Client
-	- House of Media (UK)
+- House of Media (UK)
 #### Date
-	- December 2022 - January 2023
+- December 2022 - January 2023
 #### Engagemenet
-	- Full Time 
-	- Contract
+- Full Time 
+- Contract
 #### Projects
-	- UniClinics Iraq
-		- Produced cinematic advertisement with motion graphics for rebranding launch campaign
+- UniClinics Iraq
+#### Role: Produced cinematic advertisement with motion graphics for rebranding launch campaign
 
 ### Digital Content Designer
 - Client
@@ -158,7 +157,7 @@
 		- Portrayed “Suicide Bomb Driver” in a high-pressure 10-day filming schedule
 		- Performed stunt driving and action sequences to enhance narrative realism
 
-## V. Education
+## Education
 
 ### Bachelor of Science
 - Major: Graphic Design (Digital Emphasis)
