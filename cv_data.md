@@ -19,41 +19,41 @@
 ## Skills
 ### Technical Skills
 #### Software
-	- Design
-		- Adobe Creative Suite
-			- Photoshop: Professional (20+ years)
-			- After Effects: Professional (15+ years)
-			- Illustrator: Professional (15+ years)
-			- Audition: Advanced (10+ years)
-			- InDesign: Advanced (5+ years)
-		- Maxon
-			- CInema 4D: Professional (15+ years)
-		- Autodesk
-			- Inventor: Professional (15+ years)
-			- 3Ds Max: Professional (15+ years)
-			- Maya: Professional (10+ years)
-		- The Foundry
-			- Nuke: Advanced (10+ years)
-		- NextLimit
-			- Realflow (3+ years)
-		- SideFX
-			- Houdini: Elementary / Basic (Currently Learning)
-	- Productivity
-		- Apple
-			- iWork
-				- Numbers: Advanced (5+ years)
-				- Keynote: Professional (5+ years)
-				- Pages: (Advanced (5+ years)
-		- Google
-			- Workspace
-				- Sheets: Advanced (2+ years)
-				- Docs: Advanced (2+ years)
-				- Slides: Professional (2+ years)
-		- Microsoft
-			- Office Suite
-				- PowerPoint: Professional (10+ years)
-				- Word: Advanced (10+ years)
-				- Exel: Advanced (10+ years)
+- Design
+	- Adobe Creative Suite
+		- Photoshop: Professional (20+ years)
+		- After Effects: Professional (15+ years)
+		- Illustrator: Professional (15+ years)
+		- Audition: Advanced (10+ years)
+		- InDesign: Advanced (5+ years)
+	- Maxon
+		- CInema 4D: Professional (15+ years)
+	- Autodesk
+		- Inventor: Professional (15+ years)
+		- 3Ds Max: Professional (15+ years)
+		- Maya: Professional (10+ years)
+	- The Foundry
+		- Nuke: Advanced (10+ years)
+	- NextLimit
+		- Realflow (3+ years)
+	- SideFX
+		- Houdini: Elementary / Basic (Currently Learning)
+- Productivity
+	- Apple
+		- iWork
+			- Numbers: Advanced (5+ years)
+			- Keynote: Professional (5+ years)
+			- Pages: (Advanced (5+ years)
+	- Google
+		- Workspace
+			- Sheets: Advanced (2+ years)
+			- Docs: Advanced (2+ years)
+			- Slides: Professional (2+ years)
+	- Microsoft
+		- Office Suite
+			- PowerPoint: Professional (10+ years)
+			- Word: Advanced (10+ years)
+			- Exel: Advanced (10+ years)
 #### Programming Languages
 	- Javascript: Certified Professional (5+ years)
 	- HTML5: Advanced (10+ years)
