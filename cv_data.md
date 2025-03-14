@@ -1,22 +1,14 @@
 # 
 
 ## Youssef El Zein
-- Visual Artist & Motion Designer
-
-
-### Contact Information
-- Phone Number
-	- +961 70 859870
-- Email Address
-	- YoussefElZein@live.com
-- Location
-	- Beirut, Lebanon
-- LinkedIn Profile URL
-	- https://www.linkedin.com/in/YoussefElZein/
-- Vimeo
-	- https://vimeo.com/YoussefElZein
-- Dribbble
-	- https://dribbble.com/YoussefElZein
+### Visual Artist & Motion Designer
+#### Contact Information
+	- Phone Number: +961 70 859870
+	- Email Address:  YoussefElZein@live.com
+	- Location: Beirut, Lebanon
+	- LinkedIn Profile URL: https://www.linkedin.com/in/YoussefElZein/
+	- Vimeo: https://vimeo.com/YoussefElZein
+	- Dribbble: https://dribbble.com/YoussefElZein
 
 ## II. Summary/Profile
 
