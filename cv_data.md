@@ -1,9 +1,8 @@
 # 
 
 ## Youssef El Zein
+- Visual Artist & Motion Designer
 
-### Full Name
-- Youssef El Zein
 
 ### Contact Information
 - Phone Number
