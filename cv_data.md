@@ -1,7 +1,6 @@
-# 
+# Youssef El Zein
 
-## Youssef El Zein
-- Visual Artist & Motion Designer
+## Visual Artist & Motion Designer
 
 ### Contact Information
 - Phone Number: +961 70 859870
@@ -27,7 +26,7 @@
 - Audition: Advanced (10+ years)
 - InDesign: Advanced (5+ years)
 ###### Maxon
-- CInema 4D: Professional (15+ years)
+Cinema 4D: Professional (15+ years)
 ###### Autodesk
 - Inventor: Professional (15+ years)
 - 3Ds Max: Professional (15+ years)
@@ -92,28 +91,17 @@
 - Repeat for each relevant job
 
 ### VFX & Motion Designer
-- Engagement
-	- Freelance
-- Date
-	- 2016 - Current
-- Location
-	- Hybrid
-	- Remote
-- Clients
-	- Mira-Clé
-		- Produced the logo reveal animation for the rebrand campaign.
-		- June 2022
-	- iLead Group
-		- Providing their creative team with for design related consultancy.
-		-  2019
-	- Al Mayadeen Media Network
-		- Produced Introduction animations and motion graphics for special season limited series
-		- 2018
-	- Cultural Affair Institute of ASR
-		- Produced fluid simulation rebrand package following specific project brief
-		- 2016
-- Role
-	- Develop Motion Graphic, Visual Effects, and 3D Simulation packages
+#### Engagement: Freelance
+#### Date: 2016 - Current
+#### Location: Hybrid & Remote
+#### Roles
+Develop Motion Graphic, Visual Effects, and 3D Simulation packages for global and local clients
+#### Clients
+- Mira-Clé (June 2022) : Produced the logo reveal animation for the rebrand campaign.
+- iLead Group (Since 2019) : Providing their creative team with for design related consultancy.
+- Al Mayadeen Media Network (2018) : Produced Introduction animations and motion graphics for special season limited series
+- Cultural Affair Institute of ASR (2016) : Produced fluid simulation rebrand package following specific project brief
+
 
 ### Digital Content Creator
 #### Client
