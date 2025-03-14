@@ -76,7 +76,7 @@ function createCard(node, level = 0) {
 }
 
 // Fetch Markdown file from GitHub
-fetch('https://raw.githubusercontent.com/youssefelzein-me/cv/main/cv_data.md')
+fetch('cv_data.md')
     .then(response => response.text())
     .then(markdownText => {
         // Parse Markdown text
