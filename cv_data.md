@@ -175,7 +175,7 @@
 - Skills Used
 - Link to the Project (if available online)
 
-## VII. Awards, Certifications, & Recognition
+## Awards, Certifications, & Recognition
 
 ### Persian Language Certification
 - 4th Level Proficiency Course
