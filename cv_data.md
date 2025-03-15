@@ -115,12 +115,12 @@
 - UN House, ESCWA Headquarters
 ### Projects
 #### For Office of Executive Secretary (OES): 
-##### ETC: As part of the creative team, directed, designed and executed fully immersive and interactive e-Learning content to be hosted on proprietary platform for UN-ESCWA Educational Technology Center in Jordan
+- ETC: As part of the creative team, directed, designed and executed fully immersive and interactive e-Learning content to be hosted on proprietary platform for UN-ESCWA Educational Technology Center in Jordan
 #### For Conference Management Services (CMS):
-##### ABLF: Animated a multi-lingual motion graphics package for the Arabic Business Legislative Framework (ABLF)
-##### DCDF: Produced the animated logo reveal for the Digital Cooperation and Development Forum 2021 (DCDF-2021)
-##### KLM: Produced kinetic motion 3D content package for large format video wall (8K)
-##### WALD: Produced the opening title sequence for the World Arabic Language Day 2021 online commemoration and celebration event
+- ABLF: Animated a multi-lingual motion graphics package for the Arabic Business Legislative Framework (ABLF)
+- DCDF: Produced the animated logo reveal for the Digital Cooperation and Development Forum 2021 (DCDF-2021)
+- KLM: Produced kinetic motion 3D content package for large format video wall (8K)
+- WALD: Produced the opening title sequence for the World Arabic Language Day 2021 online commemoration and celebration event
 
 ## Actor
 ### Client: Owj Media and Arts
