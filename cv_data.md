@@ -81,24 +81,23 @@
 ## Experience
 
 ### Job Title
-- Company Name
-- Dates of Employment (Month, Year - Month, Year)
-- Responsibilities and Achievements
-	- Use action verbs to describe your accomplishments
-	- Quantify your results whenever possible
-	- Highlight your contributions to the company's success
-- Repeat for each relevant job
+#### Company Name
+#### Dates of Employment (Month, Year - Month, Year)
+#### Responsibilities and Achievements
+##### Use action verbs to describe your accomplishments
+##### Quantify your results whenever possible
+##### Highlight your contributions to the company's success
 
 ### VFX & Motion Designer
-- Engagement: Freelance
-- Date: 2016 - Current
-- Location: Hybrid & Remote
-- Role: Develop Motion Graphic, Visual Effects, and 3D Simulation packages for global and local clients
+#### Engagement: Freelance
+#### Date: 2016 - Current
+#### Location: Hybrid & Remote
+#### Role: Develop Motion Graphic, Visual Effects, and 3D Simulation packages for global and local clients
 #### Clients
-- Mira-Clé (June 2022) : Produced the logo reveal animation for the rebrand campaign.
-- iLead Group (Since 2019) : Providing their creative team with for design related consultancy.
-- Al Mayadeen Media Network (2018) : Produced Introduction animations and motion graphics for special season limited series
-- Cultural Affair Institute of ASR (2016) : Produced fluid simulation rebrand package following specific project brief
+##### Mira-Clé (June 2022) : Produced the logo reveal animation for the rebrand campaign.
+##### iLead Group (Since 2019) : Providing their creative team with for design related consultancy.
+##### Al Mayadeen Media Network (2018) : Produced Introduction animations and motion graphics for special season limited series
+##### Cultural Affair Institute of ASR (2016) : Produced fluid simulation rebrand package following specific project brief
 
 
 ### Digital Content Creator
@@ -115,31 +114,22 @@
 #### Location: Beirut, Lebanon
 - UN House, ESCWA Headquarters
 #### Projects
-##### Office of Executive Secretary (OES)
+##### For Office of Executive Secretary (OES): 
 ###### ETC: As part of the creative team, directed, designed and executed fully immersive and interactive e-Learning content to be hosted on proprietary platform for UN-ESCWA Educational Technology Center in Jordan
-##### Conference Management Services (CMS)
+##### For Conference Management Services (CMS):
 ###### ABLF: Animated a multi-lingual motion graphics package for the Arabic Business Legislative Framework (ABLF)
 ###### DCDF: Produced the animated logo reveal for the Digital Cooperation and Development Forum 2021 (DCDF-2021)
 ###### KLM: Produced kinetic motion 3D content package for large format video wall (8K)
 ###### WALD: Produced the opening title sequence for the World Arabic Language Day 2021 online commemoration and celebration event
 
 ### Actor
-#### Client
-##### Owj Media and Arts
-#### Date
-##### July 2018
-#### Engagement
-##### Full Time
-##### Contract
-#### Location
-##### Shiraz, Iran
-##### On-Site
-#### Project
-##### Director Ibrahim Hatamikia
-##### Be Vaghte Sham (Damascus Under Fire)
-##### Role
-		- Portrayed “Suicide Bomb Driver” in a high-pressure 10-day filming schedule
-		- Performed stunt driving and action sequences to enhance narrative realism
+#### Client: Owj Media and Arts
+#### Date: July 2018
+#### Engagement: Full Time / Contract
+#### Location: Shiraz, Iran / On-Site
+#### Project: Be Vaghte Sham (Damascus Under Fire)
+- Director Ibrahim Hatamikia
+##### Role: Portrayed “Suicide Bomb Driver” in a high-pressure 10-day filming schedule, performing own stunt driving and action sequences to enhance narrative realism
 
 ## Education
 
