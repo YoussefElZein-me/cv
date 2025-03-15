@@ -1,83 +1,82 @@
 # Youssef El Zein
-
-## Visual Artist & Motion Designer
+- Visual Artist & Motion Designer
 
 ### Contact Information
-- Phone Number: +961 70 859870
-- Email Address:  YoussefElZein@live.com
-- Location: Beirut, Lebanon
-- LinkedIn Profile URL: https://www.linkedin.com/in/YoussefElZein/
-- Vimeo: https://vimeo.com/YoussefElZein
-- Dribbble: https://dribbble.com/YoussefElZein
+#### Phone Number: +961 70 859870
+#### Email Address:  YoussefElZein@live.com
+#### Location: Beirut, Lebanon
+#### LinkedIn Profile URL: https://www.linkedin.com/in/YoussefElZein/
+#### Vimeo: https://vimeo.com/YoussefElZein
+#### Dribbble: https://dribbble.com/YoussefElZein
 
 ## Overview
-- Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
-- Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
-- Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
+### Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
+### Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
+### Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
 
 ## Skills
 ### Technical Skills
 #### Software
 ##### Design
 ###### Adobe Creative Suite
-- Photoshop: Professional (20+ years)
-- After Effects: Professional (15+ years)
-- Illustrator: Professional (15+ years)
-- Audition: Advanced (10+ years)
-- InDesign: Advanced (5+ years)
+####### Photoshop: Professional (20+ years)
+####### After Effects: Professional (15+ years)
+####### Illustrator: Professional (15+ years)
+####### Audition: Advanced (10+ years)
+####### InDesign: Advanced (5+ years)
 ###### Maxon
--Cinema 4D: Professional (15+ years)
+#######Cinema 4D: Professional (15+ years)
 ###### Autodesk
-- Inventor: Professional (15+ years)
-- 3Ds Max: Professional (15+ years)
-- Maya: Professional (10+ years)
+####### Inventor: Professional (15+ years)
+####### 3Ds Max: Professional (15+ years)
+####### Maya: Professional (10+ years)
 ###### The Foundry
-- Nuke: Advanced (10+ years)
+####### Nuke: Advanced (10+ years)
 ###### NextLimit
-- Realflow (3+ years)
+####### Realflow (3+ years)
 ###### SideFX
-- Houdini: Elementary / Basic (Currently Learning)
+####### Houdini: Elementary / Basic (Currently Learning)
 ##### Productivity
 ###### Apple
 ####### iWork
-- Numbers: Advanced (5+ years)
-- Keynote: Professional (5+ years)
-- Pages: (Advanced (5+ years)
+######## Numbers: Advanced (5+ years)
+######## Keynote: Professional (5+ years)
+######## Pages: (Advanced (5+ years)
 ###### Google
 ####### Workspace
-- Sheets: Advanced (2+ years)
-- Docs: Advanced (2+ years)
-- Slides: Professional (2+ years)
+######## Sheets: Advanced (2+ years)
+######## Docs: Advanced (2+ years)
+######## Slides: Professional (2+ years)
 ###### Microsoft
 ####### Office Suite
-- PowerPoint: Professional (10+ years)
-- Word: Advanced (10+ years)
-- Exel: Advanced (10+ years)
+######## PowerPoint: Professional (10+ years)
+######## Word: Advanced (10+ years)
+######## Exel: Advanced (10+ years)
 #### Programming Languages
-- Javascript: Certified Professional (5+ years)
-- HTML5: Advanced (10+ years)
-- Python: Proficient (2+ years)
-- CSS: Proficient (2+ years)
-- Shell: Well Acquainted
-- Git: Well Acquainted
-- C++: Well Acquainted
-- C#: Well Acquainted
+##### Javascript: Certified Professional (5+ years)
+##### HTML5: Advanced (10+ years)
+##### Python: Proficient (2+ years)
+##### CSS: Proficient (2+ years)
+##### Shell: Well Acquainted
+##### Git: Well Acquainted
+##### C++: Well Acquainted
+##### C#: Well Acquainted
 
 ### Creative Skills
-- 3D Art and Design
-- Animation (2D & 3D)
-- Audiovisual Production
-- Compositing
-- Dynamic Simulations
-- Motion Graphics (2D & 3D)
-- Visual Effects (VFX)
+#### 3D Art and Design
+#### Animation (2D & 3D)
+#### Audiovisual Production
+#### Compositing
+#### Dynamic Simulations
+#### Motion Graphics (2D & 3D)
+#### Visual Effects (VFX)
 
 ### Soft Skills
-- Communication
-- Teamwork
-- Problem-Solving
-- Time Management
-- Creative Thinking
+#### C####mmunication
+#### Teamwork
+#### Problem-Solving
+#### Time Management
+#### Creative Thinking
 
 ## Experience
 
