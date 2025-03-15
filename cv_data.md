@@ -102,98 +102,83 @@
 
 
 ### Digital Content Creator
-#### Client
-- House of Media (UK)
-#### Date
-- December 2022 - January 2023
-#### Engagemenet
-- Full Time 
-- Contract
-#### Projects
-- UniClinics Iraq
+#### Client: House of Media (UK)
+#### Date: December 2022 - January 2023
+#### Engagemenet: Full Time / Contract
+#### Projects: UniClinics Iraq
 #### Role: Produced cinematic advertisement with motion graphics for rebranding launch campaign
 
 ### Digital Content Designer
-- Client
-	- UN-ESCWA
-- Date
-	- June 2021 - January 2022
-- Engagement
-	- Full Time
-	- Contract
-- Location
-	- Beirut, Lebanon
-	- UN House, ESCWA Headquarters
-- Projects
-	- Office of Executive Secretary (OES)
-		- ETC
-			- As part of the creative team, directed, designed and executed fully immersive and interactive e-Learning content to be hosted on proprietary platform for UN-ESCWA Educational Technology Center in Jordan
-	- Conference Management Services (CMS)
-		- ABLF
-			- Animated a multi-lingual motion graphics package for the Arabic Business Legislative Framework (ABLF)
-		- DCDF
-			- Produced the animated logo reveal for the Digital Cooperation and Development Forum 2021 (DCDF-2021)
-		- KLM
-			- Produced kinetic motion 3D content package for large format video wall (8K)
-		- WALD
-			- Produced the opening title sequence for the World Arabic Language Day 2021 online commemoration and celebration event
+#### Client: UN-ESCWA
+#### Date: June 2021 - January 2022
+#### Engagement: Full Time / Contract
+#### Location: Beirut, Lebanon
+- UN House, ESCWA Headquarters
+#### Projects
+##### Office of Executive Secretary (OES)
+###### ETC: As part of the creative team, directed, designed and executed fully immersive and interactive e-Learning content to be hosted on proprietary platform for UN-ESCWA Educational Technology Center in Jordan
+##### Conference Management Services (CMS)
+###### ABLF: Animated a multi-lingual motion graphics package for the Arabic Business Legislative Framework (ABLF)
+###### DCDF: Produced the animated logo reveal for the Digital Cooperation and Development Forum 2021 (DCDF-2021)
+###### KLM: Produced kinetic motion 3D content package for large format video wall (8K)
+###### WALD: Produced the opening title sequence for the World Arabic Language Day 2021 online commemoration and celebration event
 
 ### Actor
-- Client
-	- Owj Media and Arts
-- Date
-	- July 2018
-- Engagement
-	- Full Time
-	- Contract
-- Location
-	- Shiraz, Iran
-	- On-Site
-- Project
-	- Director Ibrahim Hatamikia
-	- Be Vaghte Sham (Damascus Under Fire)
-	- Role
+#### Client
+##### Owj Media and Arts
+#### Date
+##### July 2018
+#### Engagement
+##### Full Time
+##### Contract
+#### Location
+##### Shiraz, Iran
+##### On-Site
+#### Project
+##### Director Ibrahim Hatamikia
+##### Be Vaghte Sham (Damascus Under Fire)
+##### Role
 		- Portrayed “Suicide Bomb Driver” in a high-pressure 10-day filming schedule
 		- Performed stunt driving and action sequences to enhance narrative realism
 
 ## Education
 
 ### Bachelor of Science
-- Major: Graphic Design (Digital Emphasis)
-- Institution: Lebanese American University
-- Dates: 2010 - 2016
-- Location: Beirut, Lebanon
-- Achievements: Academic Distinction (Spring 2010)
+#### Major: Graphic Design (Digital Emphasis)
+#### Institution: Lebanese American University
+#### Dates: 2010 - 2016
+#### Location: Beirut, Lebanon
+#### Achievements: Academic Distinction (Spring 2010)
 
 ## Portfolio/Projects
 
 ### Project Title
-- Brief Description of the Project
-- Your Role in the Project
-- Skills Used
-- Link to the Project (if available online)
+#### Brief Description of the Project
+#### Your Role in the Project
+#### Skills Used
+#### Link to the Project (if available online)
 
 ## Awards, Certifications, & Recognition
 
 ### Persian Language Certification
-- 4th Level Proficiency Course
-- ICRO
-- 2010 - 2011
+#### 4th Level Proficiency Course
+#### ICRO
+#### 2010 - 2011
 
 ### Project Lead the Way (PLTW)
-- Introduction to Engineering and Design (IED) Course
-- General William Mitchell High School, Colorado Springs, CO
-- 2007 - 2008
+#### Introduction to Engineering and Design (IED) Course
+#### General William Mitchell High School, Colorado Springs, CO
+#### 2007 - 2008
 
 ### Exchange Student Scholarship
-- Kennedy Lugar Youth Exchange and Study (YES)
-- Grant Awardee
-- 2007 - 2008
+#### Kennedy Lugar Youth Exchange and Study (YES)
+#### Grant Awardee
+#### 2007 - 2008
 
 ## Languages
-- Arabic: Native
-- English: Native
-- Persian: Fluent
-- Turkish: Professional Working Proficiency
-- Russian: Elementary / Basic (Currently Pursuing)
-- Japanese: Elementary / Basic (Currently Pursuing)
+### Arabic: Native
+### English: Native
+### Persian: Fluent
+### Turkish: Professional Working Proficiency
+### Russian: Elementary / Basic (Currently Pursuing)
+### Japanese: Elementary / Basic (Currently Pursuing)
