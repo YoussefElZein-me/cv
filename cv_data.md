@@ -59,8 +59,8 @@
 #### CSS: Proficient (2+ years)
 #### Shell: Well Acquainted
 #### Git: Well Acquainted
-#### C\+\+: Well Acquainted
-#### C\#: Well Acquainted
+#### Cplusplus: Well Acquainted
+#### Csharp: Well Acquainted
 
 ## Creative Skills
 ### 3D Art and Design
