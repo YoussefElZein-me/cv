@@ -55,8 +55,8 @@
 #### CSS: Proficient (2+ years)
 #### Shell: Well Acquainted
 #### Git: Well Acquainted
-#### Cplusplus: Well Acquainted
-#### Csharp: Well Acquainted
+#### C++: Well Acquainted
+#### C#: Well Acquainted
 ## Creative Skills
 ### 3D Art and Design
 ### Animation (2D & 3D)
@@ -100,8 +100,7 @@
 ### Client: UN-ESCWA
 ### Date: June 2021 - January 2022
 ### Engagement: Full Time / Contract
-### Location: Beirut, Lebanon
-#### UN House, ESCWA Headquarters
+### Location: UN-ESCWA Headquarters, The UN House, Beirut, Lebanon
 ### Projects
 #### For Office of Executive Secretary (OES): 
 ##### ETC: As part of the creative team, directed, designed and executed fully immersive and interactive e-Learning content to be hosted on proprietary platform for UN-ESCWA Educational Technology Center in Jordan
