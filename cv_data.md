@@ -4,14 +4,14 @@
 ### Phone Number: +961 70 859870
 ### Email Address: YoussefElZein@live.com
 ### Location: Beirut, Lebanon
-### LinkedIn Profile URL: https://www.linkedin.com/in/YoussefElZein/
+### LinkedIn Profile URL: https://linkedin.com/in/YoussefElZein
 ### Vimeo: https://vimeo.com/YoussefElZein
 ### Dribbble: https://dribbble.com/YoussefElZein
 
 # Overview
-## Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
-## Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
-## Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
+### Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
+### Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
+### Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
 
 # Skills
 ## Technical Skills
@@ -36,21 +36,18 @@
 ##### SideFX
 ###### Houdini: Elementary / Basic (Currently Learning)
 #### Productivity
-##### Apple
-###### iWork
-####### Numbers: Advanced (5+ years)
-####### Keynote: Professional (5+ years)
-####### Pages: Advanced (5+ years)
-##### Google
-###### Workspace
-####### Sheets: Advanced (2+ years)
-####### Docs: Advanced (2+ years)
-####### Slides: Professional (2+ years)
-##### Microsoft
-###### Office Suite
-####### PowerPoint: Professional (10+ years)
-####### Word: Advanced (10+ years)
-####### Excel: Advanced (10+ years)
+##### Apple iWork
+###### Numbers: Advanced (5+ years)
+###### Keynote: Professional (5+ years)
+###### Pages: Advanced (5+ years)
+##### Google Workspace
+###### Sheets: Advanced (2+ years)
+###### Docs: Advanced (2+ years)
+###### Slides: Professional (2+ years)
+##### Microsoft Office Suite
+###### PowerPoint: Professional (10+ years)
+###### Word: Advanced (10+ years)
+###### Excel: Advanced (10+ years)
 ### Programming Languages
 #### Javascript: Certified Professional (5+ years)
 #### HTML5: Advanced (10+ years)
