@@ -41,7 +41,7 @@
 ###### iWork
 - Numbers: Advanced (5+ years)
 - Keynote: Professional (5+ years)
-- Pages: (Advanced (5+ years)
+- Pages: Advanced (5+ years)
 ##### Google
 ###### Workspace
 - Sheets: Advanced (2+ years)
@@ -51,7 +51,7 @@
 ###### Office Suite
 - PowerPoint: Professional (10+ years)
 - Word: Advanced (10+ years)
-- Exel: Advanced (10+ years)
+- Excel: Advanced (10+ years)
 ### Programming Languages
 #### Javascript: Certified Professional (5+ years)
 #### HTML5: Advanced (10+ years)
@@ -72,7 +72,7 @@
 ### Visual Effects (VFX)
 
 ## Soft Skills
-### C####mmunication
+### Communication
 ### Teamwork
 ### Problem-Solving
 ### Time Management
