@@ -1,6 +1,5 @@
 # Youssef El Zein
 ## Visual Artist & Motion Designer
-
 ## Contact Information
 ### Phone Number: +961 70 859870
 ### Email Address: YoussefElZein@live.com
@@ -61,7 +60,6 @@
 #### Git: Well Acquainted
 #### Cplusplus: Well Acquainted
 #### Csharp: Well Acquainted
-
 ## Creative Skills
 ### 3D Art and Design
 ### Animation (2D & 3D)
@@ -70,7 +68,6 @@
 ### Dynamic Simulations
 ### Motion Graphics (2D & 3D)
 ### Visual Effects (VFX)
-
 ## Soft Skills
 ### Communication
 ### Teamwork
@@ -79,7 +76,6 @@
 ### Creative Thinking
 
 # Experience
-
 ## Job Title
 ### Company Name
 ### Dates of Employment (Month, Year - Month, Year)
@@ -87,7 +83,6 @@
 #### Use action verbs to describe your accomplishments
 #### Quantify your results whenever possible
 #### Highlight your contributions to the company's success
-
 ## VFX & Motion Designer
 ### Engagement: Freelance
 ### Date: 2016 - Current
@@ -98,15 +93,12 @@
 #### iLead Group (Since 2019) : Providing their creative team with for design related consultancy.
 #### Al Mayadeen Media Network (2018) : Produced Introduction animations and motion graphics for special season limited series
 #### Cultural Affair Institute of ASR (2016) : Produced fluid simulation rebrand package following specific project brief
-
-
 ## Digital Content Creator
 ### Client: House of Media (UK)
 ### Date: December 2022 - January 2023
 ### Engagemenet: Full Time / Contract
 ### Projects: UniClinics Iraq
 ### Role: Produced cinematic advertisement with motion graphics for rebranding launch campaign
-
 ## Digital Content Designer
 ### Client: UN-ESCWA
 ### Date: June 2021 - January 2022
@@ -121,7 +113,6 @@
 ##### DCDF: Produced the animated logo reveal for the Digital Cooperation and Development Forum 2021 (DCDF-2021)
 ##### KLM: Produced kinetic motion 3D content package for large format video wall (8K)
 ##### WALD: Produced the opening title sequence for the World Arabic Language Day 2021 online commemoration and celebration event
-
 ## Actor
 ### Client: Owj Media and Arts
 ### Date: July 2018
@@ -132,7 +123,6 @@
 #### Role: Portrayed “Suicide Bomb Driver” in a high-pressure 10-day filming schedule, performing own stunt driving and action sequences to enhance narrative realism
 
 # Education
-
 ## Bachelor of Science
 ### Major: Graphic Design (Digital Emphasis)
 ### Institution: Lebanese American University
@@ -141,7 +131,6 @@
 ### Achievements: Academic Distinction (Spring 2010)
 
 # Portfolio/Projects
-
 ## Project Title
 ### Brief Description of the Project
 ### Your Role in the Project
@@ -149,17 +138,14 @@
 ### Link to the Project (if available online)
 
 # Awards, Certifications, & Recognition
-
 ## Persian Language Certification
 ### 4th Level Proficiency Course
 ### ICRO
 ### 2010 - 2011
-
 ## Project Lead the Way (PLTW)
 ### Introduction to Engineering and Design (IED) Course
 ### General William Mitchell High School, Colorado Springs, CO
 ### 2007 - 2008
-
 ## Exchange Student Scholarship
 ### Kennedy Lugar Youth Exchange and Study (YES)
 ### Grant Awardee
