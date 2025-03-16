@@ -1,4 +1,4 @@
-## Youssef El Zein
+# Youssef El Zein
 ## Visual Artist & Motion Designer
 ### Contact Information
 #### Phone Number: +961 70 859870
