@@ -1,4 +1,4 @@
-# Youssef El Zein
+## Youssef El Zein
 ## Visual Artist & Motion Designer
 ### Contact Information
 #### Phone Number: +961 70 859870
@@ -148,9 +148,9 @@
 ### 2007 - 2008
 
 # Languages
-## Arabic: Native
-## English: Native
-## Persian: Fluent
-## Turkish: Professional Working Proficiency
-## Russian: Elementary / Basic (Currently Pursuing)
-## Japanese: Elementary / Basic (Currently Pursuing)
+### Arabic: Native
+### English: Native
+### Persian: Fluent
+### Turkish: Professional Working Proficiency
+### Russian: Elementary / Basic (Currently Pursuing)
+### Japanese: Elementary / Basic (Currently Pursuing)
