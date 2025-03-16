@@ -58,19 +58,19 @@
 #### C++: Well Acquainted
 #### C#: Well Acquainted
 ## Creative Skills
-### 3D Art and Design
-### Animation (2D & 3D)
-### Audiovisual Production
-### Compositing
-### Dynamic Simulations
-### Motion Graphics (2D & 3D)
-### Visual Effects (VFX)
+#### 3D Art and Design
+#### Animation (2D & 3D)
+#### Audiovisual Production
+#### Compositing
+#### Dynamic Simulations
+#### Motion Graphics (2D & 3D)
+#### Visual Effects (VFX)
 ## Soft Skills
-### Communication
-### Teamwork
-### Problem-Solving
-### Time Management
-### Creative Thinking
+#### Communication
+#### Teamwork
+#### Problem-Solving
+#### Time Management
+#### Creative Thinking
 
 # Experience
 ## Job Title
