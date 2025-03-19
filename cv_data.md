@@ -9,9 +9,9 @@
 #### Dribbble: https://dribbble.com/YoussefElZein
 
 # Overview
-### Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
-### Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
-### Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
+## Award-winning creative professional with 12+ years of expertise in motion graphics, visual effects, and interactive design.
+## Specialized in delivering high-impact visual solutions for global clients, including ESCWA, Mira-Clé, and Al Mayadeen Media Network.
+## Proficient in Adobe Creative Suite, Autodesk Maya, and JavaScript-driven interactivity.
 
 # Skills
 ## Technical Skills
@@ -58,19 +58,19 @@
 #### C++: Well Acquainted
 #### C#: Well Acquainted
 ## Creative Skills
-#### 3D Art and Design
-#### Animation (2D & 3D)
-#### Audiovisual Production
-#### Compositing
-#### Dynamic Simulations
-#### Motion Graphics (2D & 3D)
-#### Visual Effects (VFX)
+### 3D Art and Design
+### Animation (2D & 3D)
+### Audiovisual Production
+### Compositing
+### Dynamic Simulations
+### Motion Graphics (2D & 3D)
+### Visual Effects (VFX)
 ## Soft Skills
-#### Communication
-#### Teamwork
-#### Problem-Solving
-#### Time Management
-#### Creative Thinking
+### Communication
+### Teamwork
+### Problem-Solving
+### Time Management
+### Creative Thinking
 
 # Experience
 ## Job Title
@@ -148,9 +148,9 @@
 ### 2007 - 2008
 
 # Languages
-### Arabic: Native
-### English: Native
-### Persian: Fluent
-### Turkish: Professional Working Proficiency
-### Russian: Elementary / Basic (Currently Pursuing)
-### Japanese: Elementary / Basic (Currently Pursuing)
+## Arabic: Native
+## English: Native
+## Persian: Fluent
+## Turkish: Professional Working Proficiency
+## Russian: Elementary / Basic (Currently Pursuing)
+## Japanese: Elementary / Basic (Currently Pursuing)
