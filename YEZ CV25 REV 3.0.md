@@ -20,8 +20,8 @@
 > 
 > **Linktree:** [linktr.ee/YoussefElZein](https://linktr.ee/YoussefElZein)
 
-## Summary
-
+> ## Summary
+>
 > An established multidisciplinary creative with two decades of experience in the production of intriguiing digital narratives.
 
 > Deeply engaged in scalable modular design, procedural animation, parametric visual effects, code-driven motion graphics, programmable compositing, and production workflow development.
@@ -30,8 +30,8 @@
 
 > Delivers a broad spectrum of professional-grade virtual services, ranging from content creation to consulting and advising, for international and local clients including NGOs, broadcast agencies, and animation studios.
 
-## Work Experience
-
+> ## Work Experience
+>
 > ### Freelance Creative
 >
 > **Senior VFX Artist & Motion Graphic Designer** - (*Self-employed*) | (*June 2011 - Present*)
@@ -133,8 +133,8 @@
 > - Ensured content is production-grade quality for website, social media, and publications.
 > - Maintained & organized logically structured digital archive for future employees.
 
-## Projects
-
+> ## Projects
+>
 > ### MetaFlame
 >
 > **The Talal and Madiha Zein AUB Innovation Park (*Zein AUB iPark*)**
@@ -145,8 +145,8 @@
 >
 > - [Watch demo intro on vimeo.com/726522006](https://vimeo.com/726522006)
 
-## Education & Certifications
-
+> ## Education & Certifications
+>
 > ### Lebanese American University
 >
 > - **Bachelor of Science in Graphic Design** - Digital Emphasis | (*February 2010 - April 2016*)
@@ -165,8 +165,8 @@
 >     - Introduction to Engineering and Design (IED) Course
 >     - NASA-affiliated Aerospace Engineering (AE) Course
 
-## Core Skills
-
+> ## Core Skills
+>
 > ### Creative Skills:
 >
 > Visual Effects, Motion Graphics, Animation, Simulation, Digital Compositing, Audiovisual Storytelling
@@ -200,8 +200,8 @@
 >
 > Javascript - HTML - CSS - Markdown - Python
 
-## Languages
-
+> ## Languages
+>
 > **Arabic:** Native fluency
 > 
 > **English:** Native fluency (*Bilingual*)
