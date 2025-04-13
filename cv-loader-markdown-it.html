@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CV Viewer Markdown-it</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="content"></div>
+
+    <!-- Markdown-it.js from CDN-->
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+    <script>
+        const md = window.markdownit();
+        fetch('YEZ CV25 REV 3.0.md')
+            .then(response => response.text())
+            .then(text => document.getElementById('content').innerHTML = md.render(text));
+    </script>
+</body>
+
+</html>
