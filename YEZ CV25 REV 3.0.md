@@ -35,7 +35,6 @@
 > ### Freelance Creative
 >
 > **Senior VFX Artist & Motion Graphic Designer** - (*Self-employed*) | (*June 2011 - Present*)
-> 
 
 >
 > ### House Of Media UK
@@ -209,6 +208,8 @@
 > **Persian:** Near Native / Full Working Proficiency (*Level4 / C2 Certified*)
 > 
 > **Turkish:** Limited Working Proficiency
+> 
+> **French:** Limited Working Proficiency
 > 
 > **Russian:** Elementary Proficiency (*Currently Pursuing*)
 > 
