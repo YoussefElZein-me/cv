@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px 10px;
-    background-color: hsl(45, 50%, 88%);
+    background-color: hsl(45, 25%, 88%);
 }
 
 h1,
@@ -23,8 +23,8 @@ blockquote {
     border-style: groove;
     border-radius: 5px;
     border-left: 5px solid hsl(30, 100%, 50%);
-    box-shadow:  9px 9px 16px #d0d0d0,
-                 -9px -9px 16px #ffffff;
+    box-shadow:  9px 9px 16px hsla(0, 0%, 10%, 0.25),
+                 -9px -9px 16px hsla(0, 0%, 100%, 0.25);
 }
 
 ul,
