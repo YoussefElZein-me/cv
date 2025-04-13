@@ -33,6 +33,5 @@ ol {
 }
 
 media print {
-    box-shadow:  0px 0px 0px #d0d0d0,
-                 0px 0px 0px #ffffff;
+    box-shadow: none;
 }
