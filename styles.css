@@ -32,6 +32,6 @@ ol {
     margin-left: 14px;
 }
 
-media print {
+@media print {
     box-shadow: none;
 }
