@@ -4,8 +4,8 @@
 >
 > Visual Effects Artist, Motion Graphic Designer, 3D Animation Generalist, Digital Content Producer, Procedural Workflow Developer.
 
-## Contact Information
-
+> ## Contact Information
+>
 > **Email:** [YoussefElZein@live.com](mailto:YoussefElZein@live.com)
 > 
 > **Address:** [Beirut, Lebanon]()
