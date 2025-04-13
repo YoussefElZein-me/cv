@@ -22,13 +22,13 @@
 
 ## Summary
 
-> An established multidisciplinary creative with two decades of experience in the production of intriguiing digital narratives.
+> - An established multidisciplinary creative with two decades of experience in the production of intriguiing digital narratives.
 >
-> Deeply engaged in scalable modular design, procedural animation, parametric visual effects, code-driven motion graphics, programmable compositing, and production workflow development.
+> - Deeply engaged in scalable modular design, procedural animation, parametric visual effects, code-driven motion graphics, programmable compositing, and production workflow development.
 >
-> Displays an interwoven skillset rooted in a passion for fine arts, photography and cinematography, a fascination in science and engineering, academically grounded in the intersecting field of digital design.
+> - Displays an interwoven skillset rooted in a passion for fine arts, photography and cinematography, a fascination in science and engineering, academically grounded in the intersecting field of digital design.
 >
-> Delivers a broad spectrum of professional-grade virtual services, ranging from content creation to consulting and advising, for international and local clients including NGOs, broadcast agencies, and animation studios.
+> - Delivers a broad spectrum of professional-grade virtual services, ranging from content creation to consulting and advising, for international and local clients including NGOs, broadcast agencies, and animation studios.
 
 ## Work Experience
 

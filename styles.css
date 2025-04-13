@@ -1,3 +1,7 @@
+:root {
+    --global-radius: 14px;    
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
@@ -25,12 +29,13 @@ h1 {
 h2 {
     font-size: 1.5em;
     color: hsl(0, 0%, 14%);
-    background: linear-gradient(hsla(0, 0%, 100%, 0.75), transparent 50%);
-    border-radius: 8px  8px 0px 0px;
+    background: linear-gradient(hsla(0, 0%, 100%, 0.88), transparent 80%,  hsla(0, 0%, 14%, 0.14), hsla(0, 0%, 0%, 0.3));
+    border-radius: calc(var(--global-radius) / 2)  calc(var(--global-radius) / 2) 0px 0px;
     padding: 5px;
     border-bottom-style: groove;
     border-bottom-color: hsla(0, 0%, 100%, 0.75);
     border-bottom-width: 1px;
+    
 
 }
 
@@ -39,19 +44,19 @@ h3 {
     color: hsl(0, 0%, 31.3%);
     background-color: hsla(180, 0%, 100%, 0.35);
     padding: 5px;
+    border-radius: var(--global-radius)  var(--global-radius) 0px 0px;
     border-bottom-style: groove;
-    border-bottom-color: hsla(0, 0%, 100%, 0.25);
+    border-bottom-color: hsla(0, 0%, 100%, 0.5);
     border-bottom-width: 1px;
 }
 
 blockquote {
     margin: 14px 0px;
-    padding: 0px;
-    background-color: hsla(0, 0%, 90%, 0.5);
-    border: 1px solid hsla(0, 0%, 100%, 0.5);
+    background-color: hsla(0, 0%, 90%, 0.75);
+    border: 1px solid hsla(0, 0%, 100%, 1);
     border-style: groove;
-    border-radius: 7px;
-    border-left: 3px solid hsla(22, 100%, 39%, 0.875);
+    border-radius: var(--global-radius);
+    border-left: calc(var(--global-radius) / 5) solid hsla(22, 100%, 39%, 1);
     box-shadow:
         0px 8px 14px hsla(0, 0%, 0%, 0.5),
         0px -8px 14px hsl(0, 0%, 100%);
@@ -76,6 +81,11 @@ a:hover {
 
 a:visited {
     color: hsl(14, 50%, 40%);
+}
+
+ul {
+    padding: 0px 1.25em;
+    margin: 4px 15px;
 }
 
 @media print {
