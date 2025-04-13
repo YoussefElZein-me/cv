@@ -17,8 +17,8 @@
 > **Vimeo:** [vimeo.com/YoussefElZein](https://vimeo.com/YoussefElZein)
 > 
 > **Dribbble:** [dribbble.com/YoussefElZein](https://dribbble.com/YoussefElZein)
- 
-[//]: <**Linktree:** [linktr.ee/YoussefElZein](https://linktr.ee/YoussefElZein)>
+> 
+> **Linktree:** [linktr.ee/YoussefElZein](https://linktr.ee/YoussefElZein)
 
 ## Summary
 
@@ -61,6 +61,7 @@
 > Designed and executed immersive interactive e-Learning content for Educational Technology Center (ETC) under the Office of Executive Secretary (OES).
 > 
 > Provided in-house production for global and regional conferences under the Conference Management Services (CMS)
+>
 > - Animated multi-lingual motion graphics packages for the Arabic Business Legislative Framework interactive portal.
 >   - [publications.unescwa.org/projects/ablf](https://publications.unescwa.org/projects/ablf)
 > - Produced an animated logo reveal for the 'Digital Cooperation and Development Forum 2021' (DCDF-2021).
@@ -135,50 +136,59 @@
 ## Projects
 
 > ### MetaFlame
+>
 > **The Talal and Madiha Zein AUB Innovation Park (*Zein AUB iPark*)**
 >
 > **President’s Innovation Challenge** - Top 10 Finalist | (*May 2022 - July 2022*)
 >
 > Lead the design team to develop coherent virtual experience for a project aiming to preserve the memories, experiences, and intellects of a human being through customizable virtual 3D rooms in the Metaverse, allowing for post-death interaction with the deceased.
+>
 > - [Watch demo intro on vimeo.com/726522006](https://vimeo.com/726522006)
-
 
 ## Education & Certifications
 
-> ### Lebanese American University 
+> ### Lebanese American University
+>
 > - **Bachelor of Science in Graphic Design** - Digital Emphasis | (*February 2010 - April 2016*)
 > - Academic Distinction (*Spring 2010*)
 
 > ### Islamic Culture and Relations Organization (*ICRO*) - Beirut
+>
 > - **Persian Language Certification** - Level4 (C2) | (*2011*)
 
 > ### U.S. Department of State’s Kennedy-Lugar Youth Exchange and Study (YES) Program
+>
 > - **Scholarship Awardee** - (*2007 - 2008*)
 > 
 > - **Mitchell High School** - High School Diploma | (*2007 - 2008*)
->    - Project Lead the Way (PLTW)
->       - Introduction to Engineering and Design (IED) Course
->       - NASA-affiliated Aerospace Engineering (AE) Course
+>   - Project Lead the Way (PLTW)
+>     - Introduction to Engineering and Design (IED) Course
+>     - NASA-affiliated Aerospace Engineering (AE) Course
 
 ## Core Skills
 
 > ### Creative Skills:
+>
 > Visual Effects, Motion Graphics, Animation, Simulation, Digital Compositing, Audiovisual Storytelling
 
 > ### Technical Skills:
+>
 > Procedural Workflow Development, Parametric Programming
 
 > ### Software Proficiency:
+>
 > #### **Design Software:**
 >
 > Primary:
+>
 > - Adobe (After Effects, Photoshop, Illustrator, Audition, InDesign, XD)
 > - Maxon Cinema 4D
 > - The Foundry Nuke
 > - Autodesk (Inventor, 3ds Max, Maya)
 >
 > Secondary:
-> - RealFlow - Blender -  Figma
+>
+> - RealFlow - Blender - Figma
 >
 > #### **Productivity Tools:**
 >
