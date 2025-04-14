@@ -1,18 +1,21 @@
 :root {
-    --global-radius: 8px;    
+    --global-radius: 14px;
+    --small-radius: calc(var(--global-radius) / 3);
+
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     margin: 0px 14px;
-    background-color: hsl(60, 8%, 80%);
+    background-color: hsl(0, 0%, 80%);
 }
 
 h1,
 h2,
 h3 {
     margin: 0px;
+
 
 }
 
@@ -24,30 +27,39 @@ h1 {
     border-bottom-style: groove;
     border-bottom-color: hsl(0, 0%, 100%);
     border-bottom-width: 1px;
+    text-shadow:
+        0px 0.1em 0.2em hsla(0, 0%, 0%, 0.5),
+        0px -0.1em 0.2em hsl(0, 0%, 100%);
 }
 
 h2 {
     font-size: 1.5em;
     color: hsl(0, 0%, 14%);
-    background: linear-gradient(hsla(0, 0%, 100%, 0.88), transparent 80%,  hsla(0, 0%, 14%, 0.14), hsla(0, 0%, 0%, 0.3));
-    border-radius: calc(var(--global-radius) / 2)  calc(var(--global-radius) / 2) 0px 0px;
+    background: linear-gradient(hsla(0, 0%, 100%, 0.88), transparent 80%, hsla(0, 0%, 14%, 0.14));
+    border-radius: var(--small-radius) var(--small-radius) 0px 0px;
     padding: 5px;
     border-bottom-style: groove;
     border-bottom-color: hsla(0, 0%, 100%, 0.75);
     border-bottom-width: 1px;
-    
+    text-shadow:
+        0px 0.075em 0.15em hsla(0, 0%, 0%, 0.5),
+        0px -0.075em 0.15em hsl(0, 0%, 100%);
+
 
 }
 
 h3 {
     font-size: 1.17em;
     color: hsl(0, 0%, 31.3%);
-    background-color: hsla(180, 0%, 100%, 0.35);
+    background-color: hsla(180, 0%, 100%, 0.4);
     padding: 5px;
-    border-radius: var(--global-radius)  var(--global-radius) 0px 0px;
+    border-radius: var(--global-radius) var(--global-radius) 0px 0px;
     border-bottom-style: groove;
     border-bottom-color: hsla(0, 0%, 100%, 0.5);
     border-bottom-width: 1px;
+    text-shadow:
+        0px 0.085em 0.17em hsla(0, 0%, 0%, 0.3),
+        0px -0.085em 0.17em hsl(0, 0%, 100%);
 }
 
 blockquote {
@@ -55,15 +67,15 @@ blockquote {
     background-color: hsla(0, 0%, 90%, 0.75);
     border: 1px solid hsla(0, 0%, 100%, 1);
     border-style: groove;
-    border-radius: var(--global-radius);
-    border-left: calc(var(--global-radius) / 3) solid hsla(22, 100%, 39%, 1);
+    border-radius: var(--small-radius) var(--global-radius) var(--global-radius) var(--small-radius);
+    border-left: var(--small-radius) solid hsla(22, 100%, 39%, 1);
     box-shadow:
         0px 8px 14px hsla(0, 0%, 0%, 0.5),
         0px -8px 14px hsl(0, 0%, 100%);
 }
 
 p {
-    margin: 5px 8px;
+    margin: 8px 14px;
 }
 
 strong {
@@ -99,7 +111,9 @@ ul {
         break-before: always;
     }
 
-    blockquote, ul, ol {
+    blockquote,
+    ul,
+    ol {
         break-inside: avoid;
     }
 
@@ -108,10 +122,11 @@ ul {
         border-left: 1px solid hsla(0, 0%, 14%, 1);
         border-radius: 3px;
     }
+
     a {
         color: hsl(0, 0%, 25%);
     }
-    
+
     a:visited {
         color: hsl(0, 00%, 25%);
     }
