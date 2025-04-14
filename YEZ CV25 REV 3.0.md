@@ -2,7 +2,7 @@
 
 ## Freelance Creative
 
-> Visual Effects Artist, Motion Graphic Designer, 3D Animation Generalist, Digital Content Producer, Procedural Workflow Developer.
+> **Visual Effects Artist** | **Motion Graphic Designer** | **3D Animation Generalist** | **Digital Content Producer** | **Procedural Workflow Developer**
 
 ## Contact Information
 
@@ -56,7 +56,7 @@
 >
 > Produced animation and motion graphics for special season limited mini-series titled 'That's How it Started'.
 
-> ### United Nations Economic and Social Commission for Western Asia - (ESCWA)
+> ### United Nations Economic and Social Commission for Western Asia - (*ESCWA*)
 >
 > **Digital Content Designer** - (*Full Time, Contract*) | (*June 2021 - January 2022*)
 >
@@ -163,7 +163,7 @@
 >
 > - **Persian Language Certification** - Level4 (C2) | (*2011*)
 
-> ### U.S. Department of State’s Kennedy-Lugar Youth Exchange and Study (YES) Program
+> ### U.S. Department of State’s Kennedy-Lugar Youth Exchange and Study (*YES*) Program
 >
 > - **Scholarship Awardee** - (*2007 - 2008*)
 > - **Mitchell High School** - High School Diploma | (*2007 - 2008*)
