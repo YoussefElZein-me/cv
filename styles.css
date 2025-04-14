@@ -15,6 +15,7 @@ h1,
 h2,
 h3 {
     margin: 0px;
+    padding: 5px;
     text-shadow:
         0px 0.07em 0.14em hsla(0, 0%, 0%, 0.3),
         0px -0.07em 0.14em hsl(0, 0%, 100%);
@@ -23,7 +24,6 @@ h3 {
 h1 {
     font-size: 2em;
     color: hsl(0, 0%, 8%);
-    padding: 5px;
     margin: 5px 0px;
     border-bottom-style: groove;
     border-bottom-color: hsl(0, 0%, 100%);
@@ -35,7 +35,6 @@ h2 {
     color: hsl(0, 0%, 20%);
     background: linear-gradient(hsla(0, 0%, 100%, 0.88), transparent 80%, hsla(0, 0%, 14%, 0.14));
     border-radius: var(--small-radius) var(--small-radius) 0px 0px;
-    padding: 5px;
     border-bottom-style: groove;
     border-bottom-color: hsla(0, 0%, 100%, 0.75);
     border-bottom-width: 1px;
@@ -45,7 +44,6 @@ h3 {
     font-size: 1.17em;
     color: hsl(0, 0%, 30%);
     background-color: hsla(180, 0%, 100%, 0.4);
-    padding: 5px;
     border-radius: var(--global-radius) var(--global-radius) 0px 0px;
     border-bottom-style: groove;
     border-bottom-color: hsla(0, 0%, 100%, 0.5);
@@ -98,7 +96,14 @@ ul {
     }
 
     h1 {
+        margin: 0px;
+    }
+
+    h1,
+    h2,
+    h3 {
         break-before: always;
+        text-shadow: none;
     }
 
     blockquote,
@@ -108,9 +113,14 @@ ul {
     }
 
     blockquote {
+        margin: 5px 0px;
         box-shadow: none;
         border-left: 1px solid hsla(0, 0%, 14%, 1);
         border-radius: 3px;
+    }
+
+    p {
+        margin: 5px 8px;
     }
 
     a {
