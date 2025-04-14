@@ -46,9 +46,7 @@
 >
 > **Motion Graphic Designer** - (*Remote, Contract*) | (*June 2022*)
 >
-> Produced logo reveal animation for the rebrand campaign.
->
-> - [instagram.com/p/C2mgP27hOgm](https://www.instagram.com/p/C2mgP27hOgm/)
+> Produced logo reveal [animation]((https://www.instagram.com/p/C2mgP27hOgm/)) for the rebrand campaign.
 
 > ### Al Mayadeen Media Network
 >
@@ -64,13 +62,10 @@
 > 
 > Provided in-house production for global and regional conferences under the Conference Management Services (*CMS*)
 >
-> - Animated multi-lingual motion graphics packages for the Arabic Business Legislative Framework interactive portal.
->   - [publications.unescwa.org/projects/ablf](https://publications.unescwa.org/projects/ablf)
-> - Produced an animated logo reveal for the 'Digital Cooperation and Development Forum 2021' (*DCDF-2021*).
->   - [dcdf-2021.unescwa.org](https://dcdf-2021.unescwa.org/)
+> - Animated multi-lingual motion graphics packages for the Arabic Business Legislative Framework (*ABLF*) interactive [portal](https://publications.unescwa.org/projects/ablf).
+> - Produced an animated logo reveal for the 'Digital Cooperation and Development Forum 2021' (*DCDF-2021*) [minisite](https://dcdf-2021.unescwa.org/).
 > - Produced kinetic motion 3D content package for large format video wall (8K).
-> - Produced the opening title sequence for the World Arabic Language Day (*WALD*) 2021 online commemoration and celebration event.
->   - [unescwa.org/events/arabic-language-day-2021](https://www.unescwa.org/events/arabic-language-day-2021)
+> - Produced the opening title sequence for the World Arabic Language Day (*WALD*) 2021 online commemoration and celebration [event](https://www.unescwa.org/events/arabic-language-day-2021).
 
 > ### iLead Group
 >
@@ -79,19 +74,19 @@
 > Provided design consultation and advising to their in-house creative team.
 
 > ### Owj Arts & Media Organization
-> 
-> **Professional Actor** - (*On-site, Contract*) | (*July 2018 - July 2018*)
-> 
-> Traveled abroad to shooting location, delivered required scenes within limited schedule, and performed own stunt driving.
 >
-> - [imdb.com/title/tt7897478](https://www.imdb.com/title/tt7897478/)
-> - [themoviedb.org/movie/504198](https://www.themoviedb.org/movie/504198)
+> **Professional Actor** - (*On-site, Contract*) | (*July 2018 - July 2018*)
+>
+> Received an [acting role](https://www.themoviedb.org/person/5166813-youssef-el-zein) for [*'Damascus Time'*](https://www.imdb.com/title/tt7897478/) film directed by *Ibrahim Hatamikia*
+>
+> Traveled abroad to shooting location, delivered required scenes within limited schedule, and performed own stunt driving.
 
 > ### Hi-Tech Ecological Industry (HEI) SAL
 > 
 > **Technical Design Lead** - (*Full Time, Contract*) | (*September 2017 - October 2017*)
-> 
+>
 > Developed an autonomous workflow to allow for remote design implementation for hybrid 3D/UV-printing.
+>
 > Tailored a pipeline for low-experienced personnel to efficiently operate machine-related operations with 0 risk upon queued-task on-time delivery.
 
 > ### Mishkat Studio
@@ -100,9 +95,7 @@
 >
 > Developed a specific brief-oriented pipeline to achieve requested result for '*Khatt Media*' - (*House of Islamic Revolutionary Designers Media Agency*).
 >
-> Lead creative team from pre-production to production phase of an impacting cinematic documentary-style motion graphic short film.
->
-> - [aparat.com/v/g585crv](https://www.aparat.com/v/g585crv)
+> Lead creative team from pre-production to production phase of an impacting cinematic documentary-style motion graphic [short film](https://www.aparat.com/v/g585crv).
 
 > ### Cultural Affairs Institute of Asr
 > 
@@ -115,16 +108,17 @@
 > **Graphic Designer** - (*Full Time, Contract*) | *(March 2016 - April 2016*)
 > 
 > Developed highly versatile extensively accessible digital archive for all stock resources, acquired assets, and in-house client productions.
-> Redesigned the old logo to align with long company history while updating the look and feel to adapt with newly implemneted digital services.
-> Designed responsive parallax website, and produced necessary assets coherent with the rebranding.
 >
-> - [dboukart.com](http://www.dboukart.com)
+> Redesigned the old logo to align with long company history while updating the look and feel to adapt with newly implemneted digital services.
+>
+> Designed responsive parallax [website](http://www.dboukart.com), and produced necessary assets coherent with the rebranding.
 
 > ### AADV - Art Advertising
 > 
 > **Graphic Designer** - (*Part time, Internship*) | (*February 2016 - March 2016*)
 > 
 > Assisted Senior designers to develop compelling billboard branding.
+>
 > Produced creative prototypes and storyboards for in-house development.
 
 > ### Mentis PLUS SARL
@@ -132,6 +126,7 @@
 > **Graphic Designer** - (*Full Time, Internship*) | (*April 2013 - July 2013*)
 > 
 > Performed Research and Development for upcoming projects.
+>
 > Contributed to the creative team candidate design approaches.
 
 > ### Lebanese American University
@@ -139,7 +134,9 @@
 > **Event Photographer** - (*Part-time, Contract*) | (*June 2011 - February 2013*)
 > 
 > Actively documented special events under the Marketing & Communication (MarCom) Department.
+>
 > Ensured content is production-grade quality for website, social media, and publications.
+>
 > Maintained & organized logically structured digital archive for future employees.
 
 ## Projects
@@ -150,7 +147,7 @@
 >
 > Lead the design team to develop coherent virtual experience for a project aiming to preserve the memories, experiences, and intellects of a human being through customizable virtual 3D rooms in the Metaverse, allowing for post-death interaction with the deceased.
 >
-> - [vimeo.com/726522006](https://vimeo.com/726522006)
+> Create the pitch deck intro [animation](https://vimeo.com/726522006) displayed at the [Demo Day 2022 event](https://youtu.be/5kq_9dCqWuI?si=IXC-Nou04pPxu-tP&t=2680).
 
 ## Education & Certifications
 

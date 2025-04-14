@@ -15,8 +15,9 @@ h1,
 h2,
 h3 {
     margin: 0px;
-
-
+    text-shadow:
+        0px 0.07em 0.14em hsla(0, 0%, 0%, 0.3),
+        0px -0.07em 0.14em hsl(0, 0%, 100%);
 }
 
 h1 {
@@ -27,39 +28,28 @@ h1 {
     border-bottom-style: groove;
     border-bottom-color: hsl(0, 0%, 100%);
     border-bottom-width: 1px;
-    text-shadow:
-        0px 0.1em 0.2em hsla(0, 0%, 0%, 0.5),
-        0px -0.1em 0.2em hsl(0, 0%, 100%);
 }
 
 h2 {
     font-size: 1.5em;
-    color: hsl(0, 0%, 14%);
+    color: hsl(0, 0%, 20%);
     background: linear-gradient(hsla(0, 0%, 100%, 0.88), transparent 80%, hsla(0, 0%, 14%, 0.14));
     border-radius: var(--small-radius) var(--small-radius) 0px 0px;
     padding: 5px;
     border-bottom-style: groove;
     border-bottom-color: hsla(0, 0%, 100%, 0.75);
     border-bottom-width: 1px;
-    text-shadow:
-        0px 0.075em 0.15em hsla(0, 0%, 0%, 0.5),
-        0px -0.075em 0.15em hsl(0, 0%, 100%);
-
-
 }
 
 h3 {
     font-size: 1.17em;
-    color: hsl(0, 0%, 31.3%);
+    color: hsl(0, 0%, 30%);
     background-color: hsla(180, 0%, 100%, 0.4);
     padding: 5px;
     border-radius: var(--global-radius) var(--global-radius) 0px 0px;
     border-bottom-style: groove;
     border-bottom-color: hsla(0, 0%, 100%, 0.5);
     border-bottom-width: 1px;
-    text-shadow:
-        0px 0.085em 0.17em hsla(0, 0%, 0%, 0.3),
-        0px -0.085em 0.17em hsl(0, 0%, 100%);
 }
 
 blockquote {
@@ -97,7 +87,7 @@ a:visited {
 
 ul {
     padding: 0px 1.25em;
-    margin: 4px 15px;
+    margin: 4px 8px;
 }
 
 @media print {
