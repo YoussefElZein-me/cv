@@ -89,10 +89,18 @@ ul {
 }
 
 @media print {
-
     body {
         background-color: white;
         font-size: 12px;
+        margin: 0px;
+    }
+
+    h1 {
+        break-before: always;
+    }
+    
+    blockquote, ul, ol {
+        break-inside: avoid;
     }
 
     blockquote {
