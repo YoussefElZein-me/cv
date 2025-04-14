@@ -97,12 +97,12 @@ ul {
 
     h1 {
         margin: 0px;
+        break-before: always;
     }
 
     h1,
     h2,
     h3 {
-        break-before: always;
         text-shadow: none;
     }
 
