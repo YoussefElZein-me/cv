@@ -180,17 +180,14 @@
 
 > ### Software Proficiency:
 >
-> **Design Software:**
->
-> Primary:
+> **Primary Design Software:**
 >
 > - Adobe (*After Effects, Photoshop, Illustrator, Audition, InDesign, XD*)
 > - Maxon Cinema 4D
 > - The Foundry Nuke
 > - Autodesk (I*nventor, 3ds Max, Maya*)
 >
-> Secondary:
->
+> **Design Utility Software:**
 > - RealFlow - Blender - Figma
 >
 > **Productivity Tools:**
@@ -201,7 +198,7 @@
 
 > ### Programming Languages:
 >
-> Javascript - HTML - CSS - Markdown - Python
+> **Javascript** - **HTML** - **CSS** - **Markdown** - **Python**
 
 ## Languages
 >
