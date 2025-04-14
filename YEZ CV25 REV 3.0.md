@@ -36,7 +36,6 @@
 >
 > **Senior VFX Artist & Motion Graphic Designer** - (*Self-employed*) | (*June 2011 - Present*)
 
->
 > ### House Of Media UK
 >
 > **Motion Graphic Designer** - (*Hybrid, Contract*) | (*December 2022 - January 2023*)
@@ -48,6 +47,8 @@
 > **Motion Graphic Designer** - (*Remote, Contract*) | (*June 2022*)
 >
 > Produced logo reveal animation for the rebrand campaign.
+>
+> - [instagram.com/p/C2mgP27hOgm](https://www.instagram.com/p/C2mgP27hOgm/)
 
 > ### Al Mayadeen Media Network
 >
@@ -82,6 +83,9 @@
 > **Professional Actor** - (*On-site, Contract*) | (*July 2018 - July 2018*)
 > 
 > Traveled abroad to shooting location, delivered required scenes within limited schedule, and performed own stunt driving.
+>
+> - [imdb.com/title/tt7897478](https://www.imdb.com/title/tt7897478/)
+> - [themoviedb.org/movie/504198](https://www.themoviedb.org/movie/504198)
 
 > ### Hi-Tech Ecological Industry (HEI) SAL
 > 
@@ -98,41 +102,45 @@
 >
 > Lead creative team from pre-production to production phase of an impacting cinematic documentary-style motion graphic short film.
 >
-> - [Watch on aparat.com/v/g585crv](https://www.aparat.com/v/g585crv)
+> - [aparat.com/v/g585crv](https://www.aparat.com/v/g585crv)
 
 > ### Cultural Affairs Institute of Asr
 > 
 > **Motion Graphic Designer** - (*Hybrid, Contract*) | (*July 2016 - December 2016*)
 > 
-> - Produced fluid simulation rebrand package following specific project brief for international satellite broadcast 'Assirat TV'.
+> Produced fluid simulation rebrand package following specific project brief for international satellite broadcast 'Assirat TV'.
 
-> ### Dbouk International for Printing
+> ### Dbouk International for Printing (*Dbouk Art*)
 > 
 > **Graphic Designer** - (*Full Time, Contract*) | *(March 2016 - April 2016*)
 > 
-> - Developed highly versatile extensively accessible digital archive for all stock resources, acquired assets, and in-house client productions.
+> Developed highly versatile extensively accessible digital archive for all stock resources, acquired assets, and in-house client productions.
+> Redesigned the old logo to align with long company history while updating the look and feel to adapt with newly implemneted digital services.
+> Designed responsive parallax website, and produced necessary assets coherent with the rebranding.
+>
+> - [dboukart.com](http://www.dboukart.com)
 
 > ### AADV - Art Advertising
 > 
 > **Graphic Designer** - (*Part time, Internship*) | (*February 2016 - March 2016*)
 > 
-> - Assisted Senior designers to develop compelling billboard branding.
-> - Produced creative prototypes and storyboards for in-house development.
+> Assisted Senior designers to develop compelling billboard branding.
+> Produced creative prototypes and storyboards for in-house development.
 
 > ### Mentis PLUS SARL
 > 
 > **Graphic Designer** - (*Full Time, Internship*) | (*April 2013 - July 2013*)
 > 
-> - Performed Research and Development for upcoming projects.
-> - Contributed to the creative team candidate design approaches.
+> Performed Research and Development for upcoming projects.
+> Contributed to the creative team candidate design approaches.
 
 > ### Lebanese American University
 > 
 > **Event Photographer** - (*Part-time, Contract*) | (*June 2011 - February 2013*)
 > 
-> - Actively documented special events under the Marketing & Communication (MarCom) Department.
-> - Ensured content is production-grade quality for website, social media, and publications.
-> - Maintained & organized logically structured digital archive for future employees.
+> Actively documented special events under the Marketing & Communication (MarCom) Department.
+> Ensured content is production-grade quality for website, social media, and publications.
+> Maintained & organized logically structured digital archive for future employees.
 
 ## Projects
 
@@ -142,7 +150,7 @@
 >
 > Lead the design team to develop coherent virtual experience for a project aiming to preserve the memories, experiences, and intellects of a human being through customizable virtual 3D rooms in the Metaverse, allowing for post-death interaction with the deceased.
 >
-> - [Watch demo intro on vimeo.com/726522006](https://vimeo.com/726522006)
+> - [vimeo.com/726522006](https://vimeo.com/726522006)
 
 ## Education & Certifications
 
@@ -158,7 +166,6 @@
 > ### U.S. Department of State’s Kennedy-Lugar Youth Exchange and Study (YES) Program
 >
 > - **Scholarship Awardee** - (*2007 - 2008*)
-> 
 > - **Mitchell High School** - High School Diploma | (*2007 - 2008*)
 >   - Project Lead the Way (PLTW)
 >     - Introduction to Engineering and Design (IED) Course
