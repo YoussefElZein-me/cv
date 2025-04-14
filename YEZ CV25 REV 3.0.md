@@ -46,7 +46,7 @@
 >
 > **Motion Graphic Designer** - (*Remote, Contract*) | (*June 2022*)
 >
-> Produced logo reveal [animation]((https://www.instagram.com/p/C2mgP27hOgm/)) for the rebrand campaign.
+> Produced logo reveal [animation](https://www.instagram.com/p/C2mgP27hOgm/) for the rebrand campaign.
 
 > ### Al Mayadeen Media Network
 >
