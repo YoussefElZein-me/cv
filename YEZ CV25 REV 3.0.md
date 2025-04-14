@@ -60,16 +60,16 @@
 >
 > **Digital Content Designer** - (*Full Time, Contract*) | (*June 2021 - January 2022*)
 >
-> Designed and executed immersive interactive e-Learning content for Educational Technology Center (ETC) under the Office of Executive Secretary (OES).
+> Designed and executed immersive interactive e-Learning content for Educational Technology Center (*ETC*) under the Office of Executive Secretary (*OES*).
 > 
-> Provided in-house production for global and regional conferences under the Conference Management Services (CMS)
+> Provided in-house production for global and regional conferences under the Conference Management Services (*CMS*)
 >
 > - Animated multi-lingual motion graphics packages for the Arabic Business Legislative Framework interactive portal.
 >   - [publications.unescwa.org/projects/ablf](https://publications.unescwa.org/projects/ablf)
-> - Produced an animated logo reveal for the 'Digital Cooperation and Development Forum 2021' (DCDF-2021).
+> - Produced an animated logo reveal for the 'Digital Cooperation and Development Forum 2021' (*DCDF-2021*).
 >   - [dcdf-2021.unescwa.org](https://dcdf-2021.unescwa.org/)
 > - Produced kinetic motion 3D content package for large format video wall (8K).
-> - Produced the opening title sequence for the World Arabic Language Day (WALD) 2021 online commemoration and celebration event.
+> - Produced the opening title sequence for the World Arabic Language Day (*WALD*) 2021 online commemoration and celebration event.
 >   - [unescwa.org/events/arabic-language-day-2021](https://www.unescwa.org/events/arabic-language-day-2021)
 
 > ### iLead Group
@@ -167,9 +167,9 @@
 >
 > - **Scholarship Awardee** - (*2007 - 2008*)
 > - **Mitchell High School** - High School Diploma | (*2007 - 2008*)
->   - Project Lead the Way (PLTW)
->     - Introduction to Engineering and Design (IED) Course
->     - NASA-affiliated Aerospace Engineering (AE) Course
+>   - Project Lead the Way (*PLTW*)
+>     - Introduction to Engineering and Design (*IED*) Course
+>     - NASA-affiliated Aerospace Engineering (*AE*) Course
 
 ## Core Skills
 
@@ -187,10 +187,10 @@
 >
 > Primary:
 >
-> - Adobe (After Effects, Photoshop, Illustrator, Audition, InDesign, XD)
+> - Adobe (*After Effects, Photoshop, Illustrator, Audition, InDesign, XD*)
 > - Maxon Cinema 4D
 > - The Foundry Nuke
-> - Autodesk (Inventor, 3ds Max, Maya)
+> - Autodesk (I*nventor, 3ds Max, Maya*)
 >
 > Secondary:
 >
@@ -198,9 +198,9 @@
 >
 > **Productivity Tools:**
 >
-> - Apple iWork (Keynote, Numbers, Pages)
-> - Google Workspace (Docs, Sheets, Slides)
-> - Microsoft Office (Excel, PowerPoint, Word)
+> - Apple iWork (*Keynote, Numbers, Pages*)
+> - Google Workspace (*Docs, Sheets, Slides*)
+> - Microsoft Office (*Excel, PowerPoint, Word*)
 
 > ### Programming Languages:
 >

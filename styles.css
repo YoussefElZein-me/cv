@@ -1,6 +1,6 @@
 :root {
     --global-radius: 14px;
-    --small-radius: calc(var(--global-radius) / 3);
+    --small-radius: calc(var(--global-radius) / 4);
 
 }
 
@@ -8,7 +8,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     margin: 0px 14px;
-    background-color: hsl(0, 0%, 80%);
+    background-color: hsl(214, 20%, 90%);
 }
 
 h1,
@@ -64,11 +64,11 @@ h3 {
 
 blockquote {
     margin: 14px 0px;
-    background-color: hsla(0, 0%, 90%, 0.75);
+    background-color: hsla(0, 0%, 100%, 0.75);
     border: 1px solid hsla(0, 0%, 100%, 1);
     border-style: groove;
     border-radius: var(--small-radius) var(--global-radius) var(--global-radius) var(--small-radius);
-    border-left: var(--small-radius) solid hsla(22, 100%, 39%, 1);
+    border-left: var(--small-radius) solid hsla(22, 80%, 40%, 1);
     box-shadow:
         0px 8px 14px hsla(0, 0%, 0%, 0.5),
         0px -8px 14px hsl(0, 0%, 100%);
