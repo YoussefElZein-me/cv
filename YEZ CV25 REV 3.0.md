@@ -21,14 +21,14 @@
 > **Linktree:** [linktr.ee/YoussefElZein](https://linktr.ee/YoussefElZein)
 
 ## Summary
-
-> - An established multidisciplinary creative with two decades of experience in the production of intriguiing digital narratives.
+[//]: <primarily / intriguing / narratives / deeply / engaged / interwoven / passion/ fascination / photography / cinematography / rooted / fine arts / science>
+> - An established multidisciplinary technically-inclined freelance creative with two decades of experience in digital production.
 >
-> - Deeply engaged in scalable modular design, procedural animation, parametric visual effects, code-driven motion graphics, programmable compositing, and production workflow development.
+> - Displays a dynamic skillset bridging a passion for art and fascination with engineering, fused in the academic intersecting discipline of design.
 >
-> - Displays an interwoven skillset rooted in a passion for fine arts, photography and cinematography, a fascination in science and engineering, academically grounded in the intersecting field of digital design.
+> - Focused on developing scalable & modular design systems, procedural animation techniques, programming parametric visual effects, coding scriptable motion graphics, and customizable production workflows.
 >
-> - Delivers a broad spectrum of professional-grade virtual services, ranging from content creation to consulting and advising, for international and local clients including NGOs, broadcast agencies, and animation studios.
+> - Delivers a broad spectrum of professional-grade services ranging from virtual content creation to personal consulting, for international and local clients including NGOs, broadcast agencies, and animation studios.
 
 ## Work Experience
 
@@ -58,14 +58,14 @@
 >
 > **Digital Content Designer** - (*Full Time, Contract*) | (*June 2021 - January 2022*)
 >
-> Designed and executed immersive interactive e-Learning content for Educational Technology Center (*ETC*) under the Office of Executive Secretary (*OES*).
+> Designed and executed immersive interactive e-Learning content for *Educational Technology Center* (*ETC*) under the Office of Executive Secretary (*OES*).
 > 
-> Provided in-house production for global and regional conferences under the Conference Management Services (*CMS*)
+> Provided in-house production for global and regional conferences under the *Conference Management Services* (*CMS*) including the following projects:
 >
-> - Animated multi-lingual motion graphics packages for the Arabic Business Legislative Framework (*ABLF*) interactive [portal](https://publications.unescwa.org/projects/ablf).
-> - Produced an animated logo reveal for the 'Digital Cooperation and Development Forum 2021' (*DCDF-2021*) [minisite](https://dcdf-2021.unescwa.org/).
+> - Animated multi-lingual motion graphics packages for the *'Arabic Business Legislative Framework'* (*ABLF*) [interactive portal](https://publications.unescwa.org/projects/ablf).
+> - Produced an animated logo reveal for the *'Digital Cooperation and Development Forum 2021'* (*DCDF-2021*) [platform](https://dcdf-2021.unescwa.org/).
 > - Produced kinetic motion 3D content package for large format video wall (8K).
-> - Produced the opening title sequence for the World Arabic Language Day (*WALD*) 2021 online commemoration and celebration [event](https://www.unescwa.org/events/arabic-language-day-2021).
+> - Produced the opening title sequence for the *'World Arabic Language Day'* (*WALD*) 2021 online commemoration and celebration [virtual event](https://www.unescwa.org/events/arabic-language-day-2021).
 
 > ### iLead Group
 >
@@ -107,11 +107,11 @@
 > 
 > **Graphic Designer** - (*Full Time, Contract*) | *(March 2016 - April 2016*)
 > 
-> Developed highly versatile extensively accessible digital archive for all stock resources, acquired assets, and in-house client productions.
+> Developed categorical digital archive for all acquired stock resources, and in-house produced assets.
 >
 > Redesigned the old logo to align with long company history while updating the look and feel to adapt with newly implemneted digital services.
 >
-> Designed responsive parallax [website](http://www.dboukart.com), and produced necessary assets coherent with the rebranding.
+> Produced design assets for the responsive [website](http://www.dboukart.com), in coherence with the rebranding.
 
 > ### AADV - Art Advertising
 > 
@@ -133,7 +133,7 @@
 > 
 > **Event Photographer** - (*Part-time, Contract*) | (*June 2011 - February 2013*)
 > 
-> Actively documented special events under the Marketing & Communication (MarCom) Department.
+> Actively documented special events under the *Marketing & Communication* (*MarCom*) Department.
 >
 > Ensured content is production-grade quality for website, social media, and publications.
 >
@@ -147,7 +147,7 @@
 >
 > Lead the design team to develop coherent virtual experience for a project aiming to preserve the memories, experiences, and intellects of a human being through customizable virtual 3D rooms in the Metaverse, allowing for post-death interaction with the deceased.
 >
-> Create the pitch deck intro [animation](https://vimeo.com/726522006) displayed at the [Demo Day 2022 event](https://youtu.be/5kq_9dCqWuI?si=IXC-Nou04pPxu-tP&t=2680).
+> Create the pitch deck [intro animation](https://vimeo.com/726522006) displayed at the [Demo Day 2022 event](https://youtu.be/5kq_9dCqWuI?si=IXC-Nou04pPxu-tP&t=2680).
 
 ## Education & Certifications
 
@@ -183,9 +183,9 @@
 > **Primary Design Software:**
 >
 > - Adobe (*After Effects, Photoshop, Illustrator, Audition, InDesign, XD*)
-> - Maxon Cinema 4D
-> - The Foundry Nuke
-> - Autodesk (I*nventor, 3ds Max, Maya*)
+> - Maxon *Cinema 4D*
+> - The Foundry *Nuke*
+> - Autodesk (*Inventor, 3ds Max, Maya*)
 >
 > **Design Utility Software:**
 > - RealFlow - Blender - Figma
