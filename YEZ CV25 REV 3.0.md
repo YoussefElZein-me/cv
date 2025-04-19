@@ -2,6 +2,10 @@
 
 ## Multidisciplinary Designer | Multilingual Audiovisual Artist | Multimodal Workflow Developer
 
+> - Crafting cross-disciplinary solutions integrating art, design, and technology
+> - Storytelling and content creation across 5+ languages and global platforms
+> - Innovating production workflows through automation and scalable system design
+
 ## Contact Information
 
 > **Email:** [YoussefElZein@live.com](mailto:YoussefElZein@live.com)
