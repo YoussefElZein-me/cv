@@ -2,8 +2,6 @@
 
 ## Multidisciplinary Designer | Multilingual Audiovisual Artist | Multimodal Workflow Developer
 
-> **Visual Effects Artist** | **Motion Graphic Designer** | **3D Animation Generalist** | **Digital Content Producer** | **Procedural Workflow Developer**
-
 ## Contact Information
 
 > **Email:** [YoussefElZein@live.com](mailto:YoussefElZein@live.com)
