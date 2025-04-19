@@ -1,8 +1,8 @@
 # Youssef El Zein
 
 ## Freelance Creative
-
-> **Visual Effects Artist** | **Motion Graphic Designer** | **3D Animation Generalist** | **Digital Content Producer** | **Procedural Workflow Developer**
+> **Multidisciplinary Designer** | **Multilingual Audiovisual Artist** | **Multimodal Workflow Developer**
+[//]: <**Visual Effects Artist** | **Motion Graphic Designer** | **3D Animation Generalist** | **Digital Content Producer** | **Procedural Workflow Developer**>
 
 ## Contact Information
 
