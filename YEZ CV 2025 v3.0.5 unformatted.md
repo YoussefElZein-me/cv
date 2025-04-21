@@ -116,20 +116,20 @@ With over twenty years at the nexus of creative storytelling and technical innov
 
 ## Education & Certifications  
 
-**Lebanese American University**  
-Bachelor of Science in Graphic Design – Digital Emphasis  
-*February 2010 – April 2016*  
-- Academic Distinction (Spring 2010)
+> **Lebanese American University**  
+> Bachelor of Science in Graphic Design – Digital Emphasis  
+> *February 2010 – April 2016*  
+> - Academic Distinction (Spring 2010)
 
-**Islamic Culture and Relations Organization (ICRO), Beirut**  
-Persian Language Certification – Level 4 (C2)  
-*2011*
+> **Islamic Culture and Relations Organization (ICRO), Beirut**  
+> Persian Language Certification – Level 4 (C2)  
+> *2011*
 
-**U.S. Department of State Kennedy-Lugar Youth Exchange and Study (YES) Program**  
-Scholarship Awardee  
-*2007 – 2008*  
-- Mitchell High School Diploma  
-- Project Lead The Way courses: Introduction to Engineering and Design, Aerospace Engineering (NASA-affiliated)
+> **U.S. Department of State Kennedy-Lugar Youth Exchange and Study (YES) Program**  
+> Scholarship Awardee  
+> *2007 – 2008*  
+> - Mitchell High School Diploma  
+> - Project Lead The Way courses: Introduction to Engineering and Design, Aerospace Engineering (NASA-affiliated)
 
 ---
 
