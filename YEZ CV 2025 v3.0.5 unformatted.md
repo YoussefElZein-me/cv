@@ -30,32 +30,27 @@ With over twenty years at the nexus of creative storytelling and technical innov
 
 ### Freelance Creative  
 > **Senior VFX Artist & Motion Graphic Designer**  
->
 > *June 2011 – Present*  
 > - Delivered advanced visual effects and motion graphics for clients worldwide across media, broadcast, and advertising.  
 > - Led creative direction and technical execution for multimedia campaigns, ensuring high-impact storytelling.
 
 ### House Of Media UK (Contract)  
 > **Motion Graphic Designer**  
->
 > *December 2022 – January 2023*  
 > - Developed cinematic motion graphics for UniClinics rebranding campaign, enhancing brand visibility.
 
 ### Mira-Clé Consultants (Contract)  
 > **Motion Graphic Designer**  
->
 > *June 2022*  
 > - Created logo reveal animation for company rebranding, boosting brand recognition on social media.
 
 ### Al Mayadeen Media Network (Contract)  
 > **Motion Graphic Designer**  
->
 > *April 2022*  
 > - Produced animated motion graphics for “That’s How it Started” mini-series, contributing to storytelling impact.
 
 ### United Nations Economic and Social Commission for Western Asia (ESCWA)  
 > **Digital Content Designer**  
->
 > *June 2021 – January 2022*  
 > - Designed and executed interactive e-learning content for Educational Technology Center.  
 > - Produced multi-lingual animated motion graphics for global conference materials and campaign branding.  
@@ -68,19 +63,16 @@ With over twenty years at the nexus of creative storytelling and technical innov
 
 ### Owj Arts & Media Organization (Contract)  
 > **Professional Actor**  
->
 > *July 2018*  
 > - Performed lead acting and stunt roles in “Damascus Time” feature film, contributing to narrative authenticity.
 
 ### Hi-Tech Ecological Industry SAL (Contract)  
 > **Technical Design Lead**  
->
 > *September 2017 – October 2017*  
 > - Developed autonomous workflow and training systems for hybrid 3D/UV printing operations, enhancing production consistency.
 
 ### Mishkat Studio (Contract)  
 > **Lead Technical Consultant**  
->
 > *March 2017 – May 2017*  
 > - Directed pipeline development and creative team for cinematic motion graphic documentary “Khatt Media.”
 
@@ -90,35 +82,35 @@ With over twenty years at the nexus of creative storytelling and technical innov
 > - Produced fluid simulation branding package for international satellite broadcast Assirat TV.
 
 ### Dbouk International for Printing (Contract)  
-**Graphic Designer**  
-*March 2016 – April 2016*  
-- Led digital asset archiving and redesigned company logo to support rebranding and digital services launch.
+> **Graphic Designer**  
+> *March 2016 – April 2016*  
+> - Led digital asset archiving and redesigned company logo to support rebranding and digital services launch.
 
 ### AADV – Art Advertising (Internship)  
-**Graphic Designer**  
-*February 2016 – March 2016*  
-- Assisted senior designers with billboard branding concepts and developed creative storyboards.
+> **Graphic Designer**  
+> *February 2016 – March 2016*  
+> - Assisted senior designers with billboard branding concepts and developed creative storyboards.
 
 ### Mentis PLUS SARL (Internship)  
-**Graphic Designer**  
-*April 2013 – July 2013*  
-- Conducted research and development for upcoming design projects; contributed to creative design strategy.
+> **Graphic Designer**  
+> *April 2013 – July 2013*  
+> - Conducted research and development for upcoming design projects; contributed to creative design strategy.
 
 ### Lebanese American University  
-**Event Photographer**  
-*June 2011 – February 2013*  
-- Documented university events with high-quality images for marketing, social media, and publications.
+> **Event Photographer**  
+> *June 2011 – February 2013*  
+> - Documented university events with high-quality images for marketing, social media, and publications.
 
 ---
 
 ## Projects  
 
 ### MetaFlame — Zein AUB Innovation Park  
-**President’s Innovation Challenge Top 10 Finalist**  
-*May 2022 – July 2022*  
-- Led design team developing immersive Metaverse-based virtual 3D spaces preserving human memories and intellect.  
-- Created pitch deck intro animation showcased at Demo Day 2022.  
-[View Animation](https://vimeo.com/726522006) | [Demo Day Event](https://youtu.be/5kq_9dCqWuI?si=IXC-Nou04pPxu-tP&t=2680)  
+> **President’s Innovation Challenge Top 10 Finalist**  
+> *May 2022 – July 2022*  
+> - Led design team developing immersive Metaverse-based virtual 3D spaces preserving human memories and intellect.  
+> - Created pitch deck intro animation showcased at Demo Day 2022.  
+> [View Animation](https://vimeo.com/726522006) | [Demo Day Event](https://youtu.be/5kq_9dCqWuI?si=IXC-Nou04pPxu-tP&t=2680)  
 
 ---
 
