@@ -29,10 +29,11 @@ With over twenty years at the nexus of creative storytelling and technical innov
 ## Experience  
 
 ### Freelance Creative  
-**Senior VFX Artist & Motion Graphic Designer**  
-*June 2011 – Present*  
-- Delivered advanced visual effects and motion graphics for clients worldwide across media, broadcast, and advertising.  
-- Led creative direction and technical execution for multimedia campaigns, ensuring high-impact storytelling.
+> **Senior VFX Artist & Motion Graphic Designer**  
+>
+> *June 2011 – Present*  
+> - Delivered advanced visual effects and motion graphics for clients worldwide across media, broadcast, and advertising.  
+> - Led creative direction and technical execution for multimedia campaigns, ensuring high-impact storytelling.
 
 ### House Of Media UK (Contract)  
 **Motion Graphic Designer**  
