@@ -36,51 +36,58 @@ With over twenty years at the nexus of creative storytelling and technical innov
 > - Led creative direction and technical execution for multimedia campaigns, ensuring high-impact storytelling.
 
 ### House Of Media UK (Contract)  
-**Motion Graphic Designer**  
-*December 2022 – January 2023*  
-- Developed cinematic motion graphics for UniClinics rebranding campaign, enhancing brand visibility.
+> **Motion Graphic Designer**  
+>
+> *December 2022 – January 2023*  
+> - Developed cinematic motion graphics for UniClinics rebranding campaign, enhancing brand visibility.
 
 ### Mira-Clé Consultants (Contract)  
-**Motion Graphic Designer**  
-*June 2022*  
-- Created logo reveal animation for company rebranding, boosting brand recognition on social media.
+> **Motion Graphic Designer**  
+>
+> *June 2022*  
+> - Created logo reveal animation for company rebranding, boosting brand recognition on social media.
 
 ### Al Mayadeen Media Network (Contract)  
-**Motion Graphic Designer**  
-*April 2022*  
-- Produced animated motion graphics for “That’s How it Started” mini-series, contributing to storytelling impact.
+> **Motion Graphic Designer**  
+>
+> *April 2022*  
+> - Produced animated motion graphics for “That’s How it Started” mini-series, contributing to storytelling impact.
 
 ### United Nations Economic and Social Commission for Western Asia (ESCWA)  
-**Digital Content Designer**  
-*June 2021 – January 2022*  
-- Designed and executed interactive e-learning content for Educational Technology Center.  
-- Produced multi-lingual animated motion graphics for global conference materials and campaign branding.  
-- Developed kinetic 3D content for 8K video walls and opening sequences for major virtual events.
+> **Digital Content Designer**  
+>
+> *June 2021 – January 2022*  
+> - Designed and executed interactive e-learning content for Educational Technology Center.  
+> - Produced multi-lingual animated motion graphics for global conference materials and campaign branding.  
+> - Developed kinetic 3D content for 8K video walls and opening sequences for major virtual events.
 
 ### iLead Group (Contract)  
-**Creative Consultant**  
-*November 2020*  
-- Provided strategic design consultation to internal creative teams, advising on branding and content strategy.
+> **Creative Consultant**  
+> *November 2020*  
+> - Provided strategic design consultation to internal creative teams, advising on branding and content strategy.
 
 ### Owj Arts & Media Organization (Contract)  
-**Professional Actor**  
-*July 2018*  
-- Performed lead acting and stunt roles in “Damascus Time” feature film, contributing to narrative authenticity.
+> **Professional Actor**  
+>
+> *July 2018*  
+> - Performed lead acting and stunt roles in “Damascus Time” feature film, contributing to narrative authenticity.
 
 ### Hi-Tech Ecological Industry SAL (Contract)  
-**Technical Design Lead**  
-*September 2017 – October 2017*  
-- Developed autonomous workflow and training systems for hybrid 3D/UV printing operations, enhancing production consistency.
+> **Technical Design Lead**  
+>
+> *September 2017 – October 2017*  
+> - Developed autonomous workflow and training systems for hybrid 3D/UV printing operations, enhancing production consistency.
 
 ### Mishkat Studio (Contract)  
-**Lead Technical Consultant**  
-*March 2017 – May 2017*  
-- Directed pipeline development and creative team for cinematic motion graphic documentary “Khatt Media.”
+> **Lead Technical Consultant**  
+>
+> *March 2017 – May 2017*  
+> - Directed pipeline development and creative team for cinematic motion graphic documentary “Khatt Media.”
 
 ### Cultural Affairs Institute of Asr (Contract)  
-**Motion Graphic Designer**  
-*July 2016 – December 2016*  
-- Produced fluid simulation branding package for international satellite broadcast Assirat TV.
+> **Motion Graphic Designer**  
+> *July 2016 – December 2016*  
+> - Produced fluid simulation branding package for international satellite broadcast Assirat TV.
 
 ### Dbouk International for Printing (Contract)  
 **Graphic Designer**  
