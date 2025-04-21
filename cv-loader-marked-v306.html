@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CV Viewer Marked-js</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="neumorphism.css">
+</head>
+
+<body>
+    <div id="content"></div>
+
+    <!-- Marked.js from CDN-->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        window.onload = () => {
+            fetch('YEZ CV 2025 v3.0.6 semi-formatted.md')
+                .then(response => response.text())
+                .then(text => document.getElementById('content').innerHTML = marked.parse(text));
+        };
+    </script>
+</body>
+
+</html>
