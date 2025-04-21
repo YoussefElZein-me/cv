@@ -28,7 +28,7 @@ With over twenty years at the nexus of creative storytelling and technical innov
 
 ## Experience  
 
-### Freelance Creative  
+> ### Freelance Creative  
 > **Senior VFX Artist & Motion Graphic Designer**  
 > *June 2011 – Present*  
 > - Delivered advanced visual effects and motion graphics for clients worldwide across media, broadcast, and advertising.  
