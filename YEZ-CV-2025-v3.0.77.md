@@ -80,7 +80,7 @@ A multidisciplinary professional with over twenty years at the nexus of creative
 > **Lead Technical Consultant** (Contract)  
 > *March 2017 – May 2017*  
 > Developed a specific brief-oriented pipeline to achieve requested results for "Khatt Media" (House of Islamic Revolutionary Designers Media Agency).  
-> Led creative team from pre-production to production phase of an impactful cinematic documentary-style motion graphic short film [here](https://www.aparat.com/v/g585crv).
+> Led creative team from pre-production to production phase of an impactful cinematic documentary-style motion graphic [short film](https://www.aparat.com/v/g585crv).
 
 > ### Cultural Affairs Institute of Asr  
 > **Motion Graphic Designer** (Contract)  
