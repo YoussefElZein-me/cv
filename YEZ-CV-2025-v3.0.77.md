@@ -68,7 +68,7 @@ A multidisciplinary professional with over twenty years at the nexus of creative
 > ### Owj Arts & Media Organization  
 > **Professional Actor** (Contract)  
 > *July 2018*  
-> Received an [acting role](https://imdb.com/name/nm9692959/ "IMDb") (or [TMDb](https://www.themoviedb.org/person/5166813-youssef-el-zein)) in the film [Damascus Time](https://imdb.com/title/tt7897478/ "IMDb") (or [TMDb](https://www.themoviedb.org/movie/504198)) directed by [Ibrahim Hatamikia](https://imdb.com/name/nm1091757/ "IMDb") (or [TMDb](https://www.themoviedb.org/person/551661)); performed own stunt driving and delivered required scenes within a tight schedule and from first takes.
+> Received an [acting role](https://imdb.com/name/nm9692959/ "IMDb") (or [TMDb](https://www.themoviedb.org/person/5166813-youssef-el-zein)) in the film [Damascus Time](https://imdb.com/title/tt7897478/ "IMDb") (or [TMDb](https://www.themoviedb.org/movie/504198)) directed by [Ibrahim Hatamikia](https://imdb.com/name/nm0368690/ "IMDb") (or [TMDb](https://www.themoviedb.org/person/1292421)); performed own stunt driving and delivered required scenes within a tight schedule and from first takes.
 
 > ### Hi-Tech Ecological Industry SAL  
 > **Technical Design Lead** (Contract)  
