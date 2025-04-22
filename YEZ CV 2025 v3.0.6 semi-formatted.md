@@ -22,7 +22,7 @@
 
 ## Summary
 
-With over twenty years at the nexus of creative storytelling and technical innovation, this multidisciplinary professional delivers immersive narratives and scalable design systems. Combining expertise in design, audiovisual art, and automated workflows, creating innovative solutions that resonate across diverse languages and cultures. Adept at transforming complex challenges into elegant, impactful outcomes, driving meaningful engagement worldwide.
+A multidisciplinary professional with over twenty years at the nexus of creative storytelling and technical innovation, delivering immersive narratives and scalable design systems. Combining expertise in procedural design, audiovisual communication arts, and automated workflow development, creating versatile innovative solutions that resonate across diverse languages and cultures. Adept at transforming complex challenges into elegant, impactful outcomes, driving meaningful engagement worldwide.
 
 ---
 
